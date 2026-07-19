@@ -4,7 +4,7 @@
 
 **Focus:** Strength, Reps & Leanness | **Duration:** ~45 min per session
 **Schedule:** Upper A → Lower A → Upper B → Lower B → Rest → Rest → Rest
-**Progression:** Main compounds stay 4-6 weeks | Accessories + core rotate every 2 weeks | Deload every 4th week
+**Progression:** Bench + squat variations rotate every 2 weeks | Pull-up, trap bar DL, pull-through stay 4-6 weeks | Accessories + core rotate every 2 weeks | Deload every 4th week
 
 ---
 
@@ -59,7 +59,7 @@
 ### Main Workout (24 min)
 
 **Chest (Primary)**
-- [ ] A: Barbell Bench Press *(KEEP 4-6 weeks)* — 4x6-8 (90s rest) — 7 min
+- [ ] A: Barbell Bench Press *(rotates each refresh)* — 4x6-8 (90s rest) — 7 min
     - *Retract shoulder blades, feet flat, touch chest, drive through chest not shoulders*
 - [ ] B1: Incline Dumbbell Press — 3x10
     - *30-45° bench, elbows ~45°, full stretch at bottom, press up and slightly back*
@@ -101,7 +101,7 @@
 ### Main Workout (25 min)
 
 **Quads (Primary)**
-- [ ] A: Barbell Back Squat *(KEEP 4-6 weeks)* — 4x6-8 (90s rest) — 7 min
+- [ ] A: Barbell Back Squat *(rotates each refresh)* — 4x6-8 (90s rest) — 7 min
     - *Bar on upper traps, brace core, sit deep, drive through whole foot*
 - [ ] B1: Bulgarian Split Squat (DB) — 3x10/leg
     - *Rear foot on bench, torso tall, drive through front heel*
@@ -218,15 +218,18 @@
 
 ---
 
-## Main Compounds (Keep 4-6 Weeks)
+## Main Compounds
 
-| Day | Exercise | In program since | Track Weekly |
-|-----|----------|------------------|--------------|
-| Day 1 | Barbell Bench Press | ≤2026-07-07 | Weight + reps |
-| Day 2 | Barbell Back Squat | ≤2026-07-07 | Weight + reps |
-| Day 3 | Weighted Pull-Up | ≤2026-07-07 | Weight + reps |
-| Day 4 | Trap Bar Deadlift | ≤2026-07-07 | Weight + reps |
-| Day 4 | Cable Pull-Through | ≤2026-07-07 | Weight + reps |
+| Day | Exercise | Rotation | Track Weekly |
+|-----|----------|----------|--------------|
+| Day 1 | Barbell Bench Press | Rotates every refresh (flat BB / incline BB / DB bench / weighted dip...) | Weight + reps |
+| Day 2 | Barbell Back Squat | Rotates every refresh (back / front / box / safety-bar squat...) | Weight + reps |
+| Day 3 | Weighted Pull-Up | Keep 4-6 weeks (in since ≤2026-07-07) | Weight + reps |
+| Day 4 | Trap Bar Deadlift | Keep 4-6 weeks (in since ≤2026-07-07) | Weight + reps |
+| Day 4 | Cable Pull-Through | Keep 4-6 weeks (in since ≤2026-07-07) | Weight + reps |
+
+The bench and squat slots always keep the 4x6-8 heavy strength scheme — only
+the variation changes, and it never repeats the previous 1-2 versions.
 
 ---
 
