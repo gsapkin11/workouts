@@ -269,8 +269,8 @@ the variation changes, and it never repeats the previous 1-2 versions.
 
 ## Update Cadence
 
-This program is refreshed every ~2 weeks (5th and 19th of each month) by a
-scheduled routine. Each refresh:
+This program is refreshed every other Sunday morning (biweekly from
+2026-07-19: Aug 2, Aug 16, ...) by a scheduled routine. Each refresh:
 
 1. Rotates the warmup, accessories, and core exercises (main compounds stay
    4-6 weeks per the progression rules above)
