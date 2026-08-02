@@ -271,6 +271,18 @@ the variation changes, and it never repeats the previous 1-2 versions.
 
 ---
 
+## Strength Tracker
+
+*Log your top set (weight x reps) on the heavy lifts each session. Goal:
+beat the previous entry for the same lift — one more rep or a little more
+weight. This section carries over across refreshes; entries are never wiped.*
+
+| Date | Exercise | Top Set (weight x reps) | Notes |
+|------|----------|-------------------------|-------|
+| | | | |
+
+---
+
 ## Update Cadence
 
 This program is refreshed every other Sunday morning (biweekly from
