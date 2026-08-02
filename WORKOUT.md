@@ -61,6 +61,7 @@
 **Chest (Primary)**
 - [ ] A: Incline Barbell Bench Press *(rotates each refresh)* — 4x6-8 (90s rest) — 7 min
     - *30° bench, bar to upper chest, elbows ~45°, drive up and slightly back*
+    - **Top set:** ___ lbs x ___ reps
 - [ ] B1: Machine Fly (Pec Deck) — 3x12
     - *Slight elbow bend, squeeze the pads together, slow stretch on the return*
 - [ ] B2: Deficit Push-Up — 3x12 (60s rest) — 5 min
@@ -103,6 +104,7 @@
 **Quads (Primary)**
 - [ ] A: Front Squat *(rotates each refresh)* — 4x6-8 (90s rest) — 7 min
     - *Bar on front delts, elbows high, torso upright, sit straight down*
+    - **Top set:** ___ lbs x ___ reps
 - [ ] B1: Reverse Lunge (DB) — 3x10/leg
     - *Step back, drop rear knee, drive through front heel to stand*
 - [ ] B2: Leg Press — 3x12 (60s rest) — 5 min
@@ -144,6 +146,7 @@
 **Back (Primary)**
 - [ ] A: Weighted Pull-Up *(KEEP 4-6 weeks)* — 4x6-8 (75s rest) — 6 min
     - *Full hang at bottom, pull chest to bar, control descent*
+    - **Top set:** +___ lbs x ___ reps
 - [ ] B1: Single-Arm Dumbbell Row — 3x10/arm
     - *Knee and hand on bench, pull to hip, squeeze lat, no torso twist*
 - [ ] B2: Lat Pulldown (neutral grip) — 3x12 (60s rest) — 5 min
@@ -190,6 +193,7 @@
 **Hamstrings (Primary)**
 - [ ] A: Trap Bar Deadlift *(KEEP 4-6 weeks)* — 4x6-8 (90s rest) — 7 min
     - *Grip center handles, chest up, drive through floor, hinge and lower*
+    - **Top set:** ___ lbs x ___ reps
 - [ ] B1: Slider Hamstring Curl — 3x10
     - *Bridge up, slide heels out slow, drag them back without dropping hips*
 - [ ] B2: Kettlebell Swing — 3x15 (60s rest) — 5 min
@@ -198,6 +202,7 @@
 **Glutes (Primary)**
 - [ ] C: Cable Pull-Through *(KEEP 4-6 weeks)* — 4x12-15 (60s rest) — 5 min
     - *Hinge at hips, squeeze glutes hard at top, don't hyperextend*
+    - **Top set:** ___ lbs x ___ reps
 
 **Quads (Secondary)**
 - [ ] D: Hack Squat (machine) — 3x10 (60s rest) — 4 min
