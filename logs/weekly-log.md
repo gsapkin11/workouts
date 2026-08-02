@@ -21,3 +21,24 @@ may span more than one calendar week.*
 
 **Overall:** 10/41 items (24%). Only Day 1 logged; its cardio finisher was
 the single skip within an otherwise complete session.
+
+---
+
+## Week ending 2026-08-02
+
+*Pre-refresh snapshot taken by the 8am biweekly refresh before it rewrote
+the page (last page edit was 2026-07-29). Tonight's recap should use this
+entry — the page was reset at 8am, so its checkboxes are empty by design,
+NOT a zero week.*
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Day 1: Upper A | All 8 lifts + both core exercises | Cardio finisher (8 min) | 10/11 (91%) |
+| Day 2: Lower A | Back Squat, Bulgarian Split Squat, Goblet Squat, DB RDL, Standing Calf Raise, Pallof Press, Side Plank Reach-Through, Cardio | Lying Leg Curl, Copenhagen Adduction, Banded Lateral Walk | 8/11 (73%) |
+| Day 3: Upper B | — | Everything | 0/10 |
+| Day 4: Lower B | — | Everything | 0/9 |
+
+**Overall:** 18/41 items (44%), up from 24% at the Tuesday baseline.
+Two sessions logged (Day 1, Day 2). Notable: cardio was skipped on Day 1
+but completed on Day 2; Day 2's skips were the hamstring-isolation and
+adductor/abductor block; Days 3-4 not logged.
