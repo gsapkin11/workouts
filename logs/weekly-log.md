@@ -42,3 +42,13 @@ NOT a zero week.*
 Two sessions logged (Day 1, Day 2). Notable: cardio was skipped on Day 1
 but completed on Day 2; Day 2's skips were the hamstring-isolation and
 adductor/abductor block; Days 3-4 not logged.
+
+**Addendum (Sunday night):** Day 3 (Upper B) was completed Sunday
+afternoon on the NEW 2026-08-02 program, after the morning refresh:
+9/12 items — all accessories including the debut Dumbbell Shrug (trap
+slot) and Renegade Row. Skipped: Weighted Pull-Up (the heavy lift),
+L-Sit Hold, cardio finisher. That makes **three sessions this week**
+(Day 1: 10/11, Day 2: 8/11, Day 3: 9/12 — 27/44 combined, 61%).
+No top-set values logged. Note: first-week rendering bug turned the
+inline "___" top-set blanks into asterisks; fixed at reset by switching
+blanks to em-dashes.
