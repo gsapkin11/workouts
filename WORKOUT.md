@@ -284,7 +284,7 @@ weight. This section carries over across refreshes; entries are never wiped.*
 
 | Date | Exercise | Top Set (weight x reps) | Notes |
 |------|----------|-------------------------|-------|
-| | | | |
+| 2026-08-06 | Back Squat (user-swapped from Front Squat) | 135 lbs x 30 reps | First entry; likely 30 total reps over 4 sets |
 
 ---
 

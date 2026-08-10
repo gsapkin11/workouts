@@ -52,3 +52,37 @@ L-Sit Hold, cardio finisher. That makes **three sessions this week**
 No top-set values logged. Note: first-week rendering bug turned the
 inline "___" top-set blanks into asterisks; fixed at reset by switching
 blanks to em-dashes.
+
+---
+
+## Week ending 2026-08-09
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Day 1: Upper A | — | Everything | 0/11 |
+| Day 2: Lower A | Squat (see note), Reverse Lunge, Leg Press, Good Morning, Hip Adduction, Clamshell, Calf Raise, V-Ups, Weighted Plank | Stability Ball Hamstring Curl, Cardio | 9/11 (82%) |
+| Day 3: Upper B | Single-Arm Row, Lat Pulldown, Floor Press, Machine Shoulder Press, Rear-Delt Fly, Concentration Curl, Bench Dip, L-Sit, Cardio | Weighted Pull-Up, Dumbbell Shrug, Renegade Row | 9/12 (75%) |
+| Day 4: Lower B | — | Everything | 0/10 |
+
+**Overall:** 18/44 items (41%). Two sessions (vs three last week).
+
+**First Strength Tracker entry:** Grant edited the Day 2 A-slot from
+Front Squat to **Back Squat** on the page and logged a top set of
+**135 lbs x 30 reps** (likely total reps across the 4 sets). Entry
+recorded ~2026-08-06. He also removed the Strength Tracker table from
+the Notion page — tracker history now lives here and in WORKOUT.md
+only; inline top-set blanks stay as the capture mechanism.
+
+**Patterns:** Weighted Pull-Up skipped two Day 3 sessions in a row
+(heavy lift getting cut while accessories get done). Hamstring
+isolation skipped every week so far (Lying Leg Curl wk1, Stability
+Ball Curl now). Cardio 1/2 sessions. Days 1+4 both missed this week
+(wk1 missed Day 3+4 — the back half of whatever order he runs).
+
+---
+
+## Strength Tracker (mirror)
+
+| Date | Exercise | Top Set | Notes |
+|------|----------|---------|-------|
+| 2026-08-06 | Back Squat (user-swapped from Front Squat) | 135 lbs x 30 reps | First entry; likely 30 total reps over 4 sets |
