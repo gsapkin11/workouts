@@ -81,6 +81,32 @@ Ball Curl now). Cardio 1/2 sessions. Days 1+4 both missed this week
 
 ---
 
+## Week ending 2026-08-16
+
+*Pre-refresh snapshot taken by the 8am biweekly refresh before it rewrote
+the page. Tonight's recap should use this entry — empty checkboxes after
+8am are BY DESIGN, not a zero week.*
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Day 1: Upper A | Everything — all lifts, core, AND cardio | — | 11/11 (100%) 🏆 |
+| Day 2: Lower A | — | Everything | 0/11 |
+| Day 3: Upper B | Weighted Pull-Up (first time in 3 weeks!), rows, pulldown, shoulder work, shrug, arms | Floor Press, L-Sit, Renegade Row, cardio | 8/12 (67%) |
+| Day 4: Lower B | Trap Bar DL, KB Swing, Pull-Through, Knee Drive, Calf Raise, Woodchop, cardio | Slider Ham Curl, Hack Squat, Waiter's Carry | 7/10 (70%) |
+
+**Overall:** 26/44 (59%). Three sessions; first-ever perfect session
+(Day 1) and first-ever completed Day 4. Four of five heavy lifts done —
+only the squat day was missed. No top sets logged.
+
+**Patterns:** Hamstring-curl-style isolation skipped a 3rd straight week
+(lying → stability ball → slider) — swapped out at this refresh for
+hinge-pattern alternatives. Weighted Pull-Up completed after 2 skipped
+weeks; rotated to Weighted Chin-Up at its 6-week mark. Trap Bar DL and
+Cable Pull-Through kept one extra cycle (first completions just logged;
+swap planned 2026-08-30).
+
+---
+
 ## Strength Tracker (mirror)
 
 | Date | Exercise | Top Set | Notes |
