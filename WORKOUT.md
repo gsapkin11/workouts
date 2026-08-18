@@ -65,8 +65,8 @@
     - **Top set:** — lbs x — reps
 - [ ] B1: Low-to-High Cable Fly — 3x12
     - *Cables set low, sweep up and in, squeeze upper chest at the top*
-- [ ] B2: Weighted Chest Dip — 3x10 (60s rest) — 5 min
-    - *Lean forward, elbows ~45°, deep stretch, don't lock out hard*
+- [ ] B2: Incline Dumbbell Press — 3x10 (60s rest) — 5 min
+    - *30-45° bench, full stretch at bottom, press up and slightly back*
 
 **Back (Secondary)**
 - [ ] C: Single-Arm Cable Row — 3x10/arm (45s rest) — 3 min
@@ -85,8 +85,8 @@
     - *Elbows pinned at sides, constant tension, squeeze at top*
 
 ### Core + Cardio Finisher (11 min)
-- [ ] Toes to Bar — 3x8 (15s rest) — 2 min
-    - *Hang, curl pelvis and sweep toes to the bar, control the swing*
+- [ ] Cable Crunch (kneeling) — 3x12 (15s rest) — 2 min
+    - *Kneel below the stack, crunch ribs toward hips, hips stay still*
 - [ ] Med Ball Rotational Slam — 3x8/side (15s rest) — 2 min
     - *Rotate through hips, slam outside the foot, catch and go*
 - [ ] Bike, Treadmill, or Stairmaster — 8 min
@@ -271,7 +271,7 @@ never repeats the previous 1-2 versions.
 
 | Day | Exercises | Focus |
 |-----|-----------|-------|
-| Day 1 | Toes to Bar, Med Ball Rotational Slam | Compression + Rotational power |
+| Day 1 | Cable Crunch, Med Ball Rotational Slam | Compression + Rotational power |
 | Day 2 | Half-Kneeling Cable Chop, Copenhagen Plank | Rotation + Lateral/adductor stability |
 | Day 3 | Windshield Wipers, Stir the Pot | Rotation control + Anti-extension |
 | Day 4 | Turkish Get-Up, Farmer's Carry | Total-body stability + Carries |
