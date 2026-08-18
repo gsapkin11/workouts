@@ -284,6 +284,11 @@ never repeats the previous 1-2 versions.
 beat the previous entry for the same lift — one more rep or a little more
 weight. This section carries over across refreshes; entries are never wiped.*
 
+*Weight conventions: dumbbell lifts = per-dumbbell weight (55 = a pair of
+55s), barbell lifts = total bar weight including plates, chin-up/pull-up =
+added weight only (+25 = bodyweight plus a 25), machines = stack/loaded
+weight.*
+
 | Date | Exercise | Top Set (weight x reps) | Notes |
 |------|----------|-------------------------|-------|
 | 2026-08-06 | Back Squat (user-swapped from Front Squat) | 135 lbs x 30 reps | First entry; likely 30 total reps over 4 sets |
