@@ -129,8 +129,8 @@
 ### Core + Cardio Finisher (11 min)
 - [ ] Half-Kneeling Cable Chop — 3x10/side (15s rest) — 2 min
     - *Inside knee down, chop across the body, hips stay square*
-- [ ] Copenhagen Plank (short lever) — 2x20s/side (15s rest) — 2 min
-    - *Top leg on bench at the knee, hips high and level*
+- [ ] Side Plank Hip Lift — 2x10/side (15s rest) — 2 min
+    - *Forearm side plank, lower hip toward floor and lift back up, stay stacked*
 - [ ] Bike, Treadmill, or Stairmaster — 8 min
 
 **Total: ~46 min**
@@ -272,7 +272,7 @@ never repeats the previous 1-2 versions.
 | Day | Exercises | Focus |
 |-----|-----------|-------|
 | Day 1 | Cable Crunch, Med Ball Rotational Slam | Compression + Rotational power |
-| Day 2 | Half-Kneeling Cable Chop, Copenhagen Plank | Rotation + Lateral/adductor stability |
+| Day 2 | Half-Kneeling Cable Chop, Side Plank Hip Lift | Rotation + Lateral stability |
 | Day 3 | Windshield Wipers, Stir the Pot | Rotation control + Anti-extension |
 | Day 4 | Turkish Get-Up, Farmer's Carry | Total-body stability + Carries |
 
