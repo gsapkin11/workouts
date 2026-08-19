@@ -112,8 +112,8 @@
     - *Pause 1s at the top, slow negative, toes up*
 
 **Hamstrings (Secondary)**
-- [ ] C: Nordic Curl (assisted) — 3x5 (45s rest) — 3 min
-    - *Anchor feet, lower as slow as possible, push back up*
+- [ ] C: 45° Back Extension (hamstring focus) — 3x12 (45s rest) — 3 min
+    - *Toes slightly in, flat back, hinge at hips only, hold a plate to progress*
 - [ ] D: Single-Leg RDL (DB) — 3x8/leg (60s rest) — 4 min
     - *Hinge on one leg, DB slides down shin, square hips, feel the stretch*
 
