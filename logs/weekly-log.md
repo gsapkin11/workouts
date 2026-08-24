@@ -107,8 +107,29 @@ swap planned 2026-08-30).
 
 ---
 
+## Week ending 2026-08-23
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Day 1: Upper A | DB Bench (55x14 logged!), Cable Fly, Cable Row, OHP, Lateral Raise, Skull Crushers, Cable Curl, cardio | Incline DB Press, Cable Crunch, Med Ball Slam | 9/11 (82%) |
+| Day 2: Lower A | Box Squat, Walking Lunge, Leg Extension, Back Extension, SL RDL, Adduction, Abduction, Calf Raise, Cable Chop, cardio | Side Plank Hip Lift | 10/11 (91%) |
+| Day 3: Upper B | T-Bar Row, Straight-Arm Pulldown, Weighted Push-Up, Landmine Press, Reverse Pec Deck, Upright Row, Incline Curl, CG Bench, cardio | Weighted Chin-Up, Windshield Wipers, Stir the Pot | 9/12 (75%) |
+| Day 4: Lower B | — | Everything | 0/10 |
+
+**Overall:** 28/44 (64%) — new best (trend: 24% → 44% → 41% → 59% → 64%).
+Three sessions. Cardio done all three sessions (previously the top skip).
+The replaced hamstring slot WORKED: back extension + SL RDL both done
+after 3 weeks of skipped curls. First proper top-set log: DB Bench 55x14
+(per-DB) — well above the 6-8 target, weight should go up. Watch item:
+the new Weighted Chin-Up was skipped in its first week (pull-up slot has
+now been skipped 3 of 5 sessions across variations); Day 4 missed this
+week after being done last week.
+
+---
+
 ## Strength Tracker (mirror)
 
 | Date | Exercise | Top Set | Notes |
 |------|----------|---------|-------|
 | 2026-08-06 | Back Squat (user-swapped from Front Squat) | 135 lbs x 30 reps | First entry; likely 30 total reps over 4 sets |
+| 2026-08-22 | Flat Dumbbell Bench Press | 55 lbs x 14 reps (per DB) | 14 reps at 4x6-8 target — move up to ~60s |

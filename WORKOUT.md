@@ -292,6 +292,7 @@ weight.*
 | Date | Exercise | Top Set (weight x reps) | Notes |
 |------|----------|-------------------------|-------|
 | 2026-08-06 | Back Squat (user-swapped from Front Squat) | 135 lbs x 30 reps | First entry; likely 30 total reps over 4 sets |
+| 2026-08-22 | Flat Dumbbell Bench Press | 55 lbs x 14 reps (per DB) | 14 reps at 4x6-8 target — move up to ~60s |
 
 ---
 
