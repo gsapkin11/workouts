@@ -3,7 +3,7 @@
 *Last updated: 2026-08-30 · Canonical copy lives in Notion ("💪🏽 Workouts" page); this file is the version history for the biweekly refresh.*
 
 **Focus:** Strength, Reps & Leanness | **Duration:** ~45 min per session
-**Schedule:** Upper A → Lower A → Upper B → Lower B → Rest → Rest → Rest
+**Schedule:** Upper A → Lower A → Upper B → Lower B → Core + Cardio → Rest → Rest
 **Progression:** Bench + squat variations rotate every 2 weeks (back-rack squats only) | Heavy keepers stay 4-6 weeks | Accessories + core rotate every 2 weeks | Deload every 4th week
 
 ---
@@ -225,6 +225,31 @@
 
 ---
 
+## Day 5: Core + Cardio (~40 min)
+
+### Warmup (5 min)
+*Just the essentials: Walkout to Shoulder Tap, Single-Leg Glute Bridge, Open Book, Bird Dog — one set each*
+
+### Core Circuit (~15 min)
+*3 rounds, 15s rest between exercises, 60s between rounds — rotates each refresh*
+
+- [ ] Hanging Leg Raise — 10 reps
+    - *Legs straight, curl pelvis at top, no swinging*
+- [ ] Russian Twist (plate) — 12/side
+    - *Heels light on floor, rotate shoulders not just arms*
+- [ ] Weighted Plank — 30s
+    - *Plate on upper back, straight line head to heels, no sag*
+- [ ] V-Ups — 10 reps
+    - *Arms and legs straight, fold in the middle, control the descent*
+
+### Cardio (20 min)
+- [ ] Bike, Treadmill, or Stairmaster — 20 min
+    - *Steady pace you could hold a conversation at — OR 10 rounds of 1 min hard / 1 min easy*
+
+**Total: ~40 min**
+
+---
+
 ## Main Compounds
 
 | Day | Exercise | Rotation | Track Weekly |
@@ -256,11 +281,11 @@ never repeats the previous 1-2 versions.
 
 | Component | Weekly Total |
 |-----------|--------------|
-| Warmup | 40 min (10 min x 4) |
+| Warmup | 45 min (10 min x 4 + 5 min Day 5) |
 | Lifting | ~102 min |
-| Core | 16 min (4 min x 4) |
-| Cardio | 32 min (8 min x 4) |
-| **Total** | **~45-48 min/session** |
+| Core | ~31 min (4 min x 4 + 15 min Day 5) |
+| Cardio | 52 min (8 min x 4 + 20 min Day 5) |
+| **Total** | **~45-48 min lifting days \| ~40 min Day 5** |
 
 ---
 
@@ -272,6 +297,7 @@ never repeats the previous 1-2 versions.
 | Day 2 | Pallof Press, Body Saw | Anti-rotation + Anti-extension |
 | Day 3 | Hollow Body Hold, Plank Pull-Through | Compression + Anti-rotation |
 | Day 4 | Landmine Rotation, Suitcase Carry | Rotational power + Carries |
+| Day 5 | Hanging Leg Raise, Russian Twist, Weighted Plank, V-Ups (circuit) | Full core circuit + 20 min cardio |
 
 ---
 
