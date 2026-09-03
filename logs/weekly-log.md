@@ -127,6 +127,29 @@ week after being done last week.
 
 ---
 
+## Week ending 2026-08-30
+
+*Snapshot from the 2026-08-30 refresh cycle (page state as of Thu 8/27;
+the refresh replaced the page with the new program, so the Sunday-night
+recap should use this entry). Note: this refresh's page update landed
+Sunday but the repo write was delayed to 2026-09-03 by interrupted runs.*
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Day 1: Upper A | DB Bench, Cable Fly, Incline DB Press, OHP, Lateral Raise, Skull Crushers, Cable Curl, Cable Crunch, cardio | Single-Arm Cable Row, Med Ball Slam | 9/11 (82%) |
+| Day 2: Lower A | Box Squat, Walking Lunge, Leg Extension, Back Extension, SL RDL, Hip Adduction, Calf Raise, Cable Chop, Side Plank Hip Lift | Hip Abduction, cardio | 9/11 (82%) |
+| Day 3: Upper B | — | Everything | 0/12 |
+| Day 4: Lower B | — | Everything | 0/10 |
+
+**Overall:** 18/44 (41%). Two sessions (Day 1, Day 2 — both at 82%).
+No new top sets. Upper A and Lower A remain rock-solid; Day 3 (back)
+and Day 4 (posterior) both missed this week — the back half of the
+split is the chronic gap (Day 3 missed 2 of 5 weeks, Day 4 missed
+3 of 5). Hamstring hinge slots completed again (back ext + SL RDL,
+now 2-for-2 weeks each).
+
+---
+
 ## Strength Tracker (mirror)
 
 | Date | Exercise | Top Set | Notes |

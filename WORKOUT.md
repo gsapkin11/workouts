@@ -1,6 +1,6 @@
 # 4-DAY WORKOUT SPLIT
 
-*Last updated: 2026-08-16 · Canonical copy lives in Notion ("💪🏽 Workouts" page); this file is the version history for the biweekly refresh.*
+*Last updated: 2026-08-30 · Canonical copy lives in Notion ("💪🏽 Workouts" page); this file is the version history for the biweekly refresh.*
 
 **Focus:** Strength, Reps & Leanness | **Duration:** ~45 min per session
 **Schedule:** Upper A → Lower A → Upper B → Lower B → Rest → Rest → Rest
@@ -12,43 +12,43 @@
 
 *Dynamic stretches that activate as you move*
 
-- [ ] **World's Greatest Stretch** — 5/side
-    - *Deep lunge, elbow to instep, then rotate arm to ceiling*
-    - *Activates: hip flexors, thoracic spine, hamstrings, glutes*
-- [ ] **Glute Bridge March** — 10/leg
-    - *Bridge up, hold hips high, march knees alternately*
+- [ ] **Walkout to Shoulder Tap** — 6 reps
+    - *Walk hands out to plank, tap each shoulder, walk back, stand*
+    - *Activates: chest, shoulders, core, hamstrings*
+- [ ] **Reverse Lunge with Overhead Reach** — 5/side
+    - *Step back into lunge, reach both arms overhead, feel the hip flexor stretch*
+    - *Activates: hip flexors, quads, glutes, shoulders*
+- [ ] **Single-Leg Glute Bridge** — 8/leg
+    - *One foot down, drive hips up, squeeze at top, don't arch low back*
     - *Activates: glutes, hamstrings, core*
-- [ ] **Band Pull-Apart** — 15 reps
-    - *Arms straight, pull band to chest, squeeze shoulder blades*
-    - *Activates: rear delts, upper back, traps*
-- [ ] **Leg Swings (front + side)** — 10/leg each direction
-    - *Hold support, controlled swings, taller each rep*
-    - *Activates: hip flexors, hamstrings, adductors*
-- [ ] **90/90 Hip Switch** — 6/side
-    - *Seated, knees at 90°, rotate both knees side to side, chest tall*
-    - *Activates: hip rotators, glutes*
-- [ ] **Push-Up to Down Dog** — 8 reps
-    - *Push-up, then drive hips up and back, press heels down*
-    - *Activates: chest, shoulders, hamstrings, calves*
-- [ ] **Curtsy Lunge** — 5/side
-    - *Step behind and across, sink straight down, front knee stays out*
-    - *Activates: glute med, adductors, quads*
-- [ ] **Dead Bug** — 8/side
-    - *Low back pressed to floor, opposite arm/leg lower slowly*
-    - *Activates: deep core, hip flexors*
+- [ ] **Open Book** — 8/side
+    - *Side-lying, knees stacked at 90°, rotate top arm open, follow with eyes*
+    - *Activates: thoracic spine, obliques*
+- [ ] **Toy Soldier Kicks** — 10/leg
+    - *Kick straight leg up to opposite hand, stay tall, don't round back*
+    - *Activates: hamstrings, hip flexors*
+- [ ] **Lateral Lunge with Reach** — 6/side
+    - *Step wide, sit into one hip, reach forward, push back to center*
+    - *Activates: adductors, glutes, quads*
+- [ ] **Scap Wall Slide** — 10 reps
+    - *Back and arms against wall, slide arms overhead without arching*
+    - *Activates: shoulders, upper back, traps*
+- [ ] **Bird Dog** — 8/side
+    - *Opposite arm/leg extend, hips square, pause 2s at full reach*
+    - *Activates: deep core, glutes, spinal stabilizers*
 
 ### What This Hits
 
 | Area | Exercise |
 |------|----------|
-| Chest/Shoulders | Push-Up to Down Dog, Band Pull-Apart |
-| Upper Back/Traps | Band Pull-Apart |
-| Core | Dead Bug, Glute Bridge March |
-| Glutes | Glute Bridge March, Curtsy Lunge, 90/90 Switch |
-| Hamstrings | World's Greatest Stretch, Leg Swings, Push-Up to Down Dog |
-| Hip Flexors | World's Greatest Stretch, Leg Swings, Dead Bug |
-| Thoracic Spine | World's Greatest Stretch |
-| Adductors | Curtsy Lunge, Leg Swings |
+| Chest/Shoulders | Walkout to Shoulder Tap, Scap Wall Slide |
+| Upper Back/Traps | Scap Wall Slide |
+| Core | Bird Dog, Walkout to Shoulder Tap |
+| Glutes | Single-Leg Glute Bridge, Lateral Lunge, Bird Dog |
+| Hamstrings | Toy Soldier Kicks, Single-Leg Glute Bridge |
+| Hip Flexors | Reverse Lunge with Reach, Toy Soldier Kicks |
+| Thoracic Spine | Open Book |
+| Adductors | Lateral Lunge with Reach |
 
 ---
 
@@ -60,35 +60,35 @@
 ### Main Workout (24 min)
 
 **Chest (Primary)**
-- [ ] A: Flat Dumbbell Bench Press *(rotates each refresh)* — 4x6-8 (90s rest) — 7 min
-    - *DBs just outside chest, slight arch, press up and slightly in, control down*
+- [ ] A: Flat Barbell Bench Press *(rotates each refresh — the classic returns)* — 4x6-8 (90s rest) — 7 min
+    - *Retract shoulder blades, feet flat, touch chest, drive through chest not shoulders*
     - **Top set:** — lbs x — reps
-- [ ] B1: Low-to-High Cable Fly — 3x12
-    - *Cables set low, sweep up and in, squeeze upper chest at the top*
-- [ ] B2: Incline Dumbbell Press — 3x10 (60s rest) — 5 min
-    - *30-45° bench, full stretch at bottom, press up and slightly back*
+- [ ] B1: Flat Dumbbell Fly — 3x12
+    - *Slight elbow bend, wide arc, squeeze chest at top, don't overstretch*
+- [ ] B2: Incline Machine Press — 3x10 (60s rest) — 5 min
+    - *Full stretch at the bottom, drive up and slightly back, slow negative*
 
 **Back (Secondary)**
-- [ ] C: Single-Arm Cable Row — 3x10/arm (45s rest) — 3 min
-    - *Stagger stance, pull to hip, let the cable stretch the lat forward*
+- [ ] C: Chest-Supported Dumbbell Row — 3x10 (45s rest) — 3 min
+    - *Chest on incline bench, pull to hips, squeeze blades, no momentum*
 
 **Shoulders**
-- [ ] D1: Standing Dumbbell Overhead Press — 3x10
-    - *Glutes and core tight, no lean back, full lockout*
-- [ ] D2: Leaning Cable Lateral Raise — 3x12/side (45s rest) — 4 min
-    - *Hold rack and lean away, constant tension, stop at shoulder height*
+- [ ] D1: Seated Arnold Press — 3x10
+    - *Start palms facing you, rotate out as you press, full lockout*
+- [ ] D2: Dumbbell Lateral Raise — 3x12-15 (45s rest) — 4 min
+    - *Slight forward lean, lead with elbows, stop at shoulder height*
 
 **Arms**
-- [ ] E1: Skull Crushers (EZ bar) — 3x12
-    - *Lower to forehead, elbows still, extend with triceps only*
-- [ ] E2: Cable Curl (bar) — 3x12 (45s rest) — 4 min
-    - *Elbows pinned at sides, constant tension, squeeze at top*
+- [ ] E1: Overhead Cable Triceps Extension — 3x12
+    - *Face away from stack, elbows by ears, feel the long-head stretch, extend fully*
+- [ ] E2: Hammer Curl — 3x12 (45s rest) — 4 min
+    - *Neutral grip, elbows pinned, control the negative*
 
 ### Core + Cardio Finisher (11 min)
-- [ ] Cable Crunch (kneeling) — 3x12 (15s rest) — 2 min
-    - *Kneel below the stack, crunch ribs toward hips, hips stay still*
-- [ ] Med Ball Rotational Slam — 3x8/side (15s rest) — 2 min
-    - *Rotate through hips, slam outside the foot, catch and go*
+- [ ] Ab Wheel Rollout — 3x10 (15s rest) — 2 min
+    - *Hips tucked, roll out slow, don't let low back arch*
+- [ ] High-to-Low Cable Chop — 3x10/side (15s rest) — 2 min
+    - *Cable set high, chop across body to opposite hip, rotate from hips*
 - [ ] Bike, Treadmill, or Stairmaster — 8 min
 
 **Total: ~45 min**
@@ -103,34 +103,35 @@
 ### Main Workout (25 min)
 
 **Quads (Primary)**
-- [ ] A: Box Squat (barbell, back-rack) *(rotates each refresh)* — 4x6-8 (90s rest) — 7 min
-    - *Bar on upper traps, sit back to the box, brief pause, drive up hard*
-    - **Top set:** — lbs x — reps
-- [ ] B1: Walking Lunge (DB) — 3x10/leg
-    - *Long steps, torso tall, back knee kisses the floor*
-- [ ] B2: Leg Extension — 3x12 (60s rest) — 5 min
-    - *Pause 1s at the top, slow negative, toes up*
+- [ ] A: Pause Back Squat *(rotates each refresh)* — 4x6-8 (90s rest) — 7 min
+    - *Bar on upper traps, sit deep, dead-stop 2s in the hole, drive up hard*
+    - **Top set:** — lbs x — reps *(related: back squat 135x30, 8/6)*
+- [ ] B1: Bulgarian Split Squat (DB) — 3x10/leg
+    - *Rear foot on bench, torso tall, drive through front heel*
+- [ ] B2: Heels-Elevated Goblet Squat — 3x12 (60s rest) — 5 min
+    - *Heels on plate, sit deep between knees, quads do the work*
 
 **Hamstrings (Secondary)**
-- [ ] C: 45° Back Extension (hamstring focus) — 3x12 (45s rest) — 3 min
-    - *Toes slightly in, flat back, hinge at hips only, hold a plate to progress*
-- [ ] D: Single-Leg RDL (DB) — 3x8/leg (60s rest) — 4 min
-    - *Hinge on one leg, DB slides down shin, square hips, feel the stretch*
+- [ ] C: Dumbbell RDL — 3x10 (45s rest) — 3 min
+    - *Hinge at hips, DBs slide down thighs, flat back, feel hamstring stretch*
+- [ ] D: 45° Back Extension (hamstring focus) — 3x12 (60s rest) — 4 min
+    - *Kept — completed every week since it came in. Toes in, flat back, add a plate to progress*
 
 **Adductors/Abductors**
-- [ ] E1: Cable Hip Adduction — 3x12/side
-- [ ] E2: Cable Hip Abduction — 3x12/side (45s rest) — 3 min
-    - *Slow and controlled both directions, no leaning*
+- [ ] E1: Sumo Squat (DB, adductor focus) — 3x12
+    - *Wide stance, toes out, sit straight down, squeeze inner thighs up*
+- [ ] E2: Banded Lateral Walk — 3x12 steps/direction (45s rest) — 3 min
+    - *Band above knees, stay low, controlled steps, knees pushed out*
 
 **Calves**
-- [ ] F: Leg Press Calf Raise — 3x15 (45s rest) — 3 min
+- [ ] F: Standing Calf Raise — 3x15 (45s rest) — 3 min
     - *Full stretch at bottom, pause at top, no bouncing*
 
 ### Core + Cardio Finisher (11 min)
-- [ ] Half-Kneeling Cable Chop — 3x10/side (15s rest) — 2 min
-    - *Inside knee down, chop across the body, hips stay square*
-- [ ] Side Plank Hip Lift — 2x10/side (15s rest) — 2 min
-    - *Forearm side plank, lower hip toward floor and lift back up, stay stacked*
+- [ ] Pallof Press — 3x10/side (15s rest) — 2 min
+    - *Cable at chest height, press out, resist rotation, hips square*
+- [ ] Body Saw (sliders or towel) — 3x8 (15s rest) — 2 min
+    - *Forearm plank on sliders, rock forward and back, ribs down the whole time*
 - [ ] Bike, Treadmill, or Stairmaster — 8 min
 
 **Total: ~46 min**
@@ -145,39 +146,39 @@
 ### Main Workout (27 min)
 
 **Back (Primary)**
-- [ ] A: Weighted Chin-Up *(NEW — replaces Weighted Pull-Up; KEEP 4-6 weeks)* — 4x6-8 (75s rest) — 6 min
+- [ ] A: Weighted Chin-Up *(KEEP 4-6 weeks — 2 weeks in)* — 4x6-8 (75s rest) — 6 min
     - *Palms facing you, full hang, pull chest to bar, biceps and lats together*
     - **Top set:** +— lbs x — reps
-- [ ] B1: T-Bar Row — 3x10
-    - *Chest on pad or hinged, pull to sternum, squeeze blades*
-- [ ] B2: Straight-Arm Pulldown — 3x12 (60s rest) — 5 min
-    - *Arms nearly straight, sweep bar to thighs, feel lats the whole way*
+- [ ] B1: Barbell Bent-Over Row — 3x10
+    - *Hinge ~45°, pull to lower ribs, squeeze blades, no jerking*
+- [ ] B2: Dumbbell Pullover — 3x12 (60s rest) — 5 min
+    - *Slight elbow bend, lower behind head, pull back over with lats*
 
 **Chest (Secondary)**
-- [ ] C: Weighted Push-Up — 3x12 (45s rest) — 3 min
-    - *Plate on upper back, rigid plank, chest to floor*
+- [ ] C: Machine Chest Press — 3x12 (45s rest) — 3 min
+    - *Control the negative, squeeze chest, don't slam the stack*
 
 **Shoulders**
-- [ ] D1: Half-Kneeling Landmine Press — 3x10/side
-    - *Inside knee down, press up and slightly across, ribs down*
-- [ ] D2: Reverse Pec Deck — 3x15 (45s rest) — 4 min
-    - *Arms wide, squeeze rear delts, pause 1s at the back*
+- [ ] D1: Standing Barbell Overhead Press — 3x10
+    - *Glutes tight, bar path close to face, lock out overhead*
+- [ ] D2: Cable Rear-Delt Fly (crossover) — 3x15 (45s rest) — 4 min
+    - *Cross the cables, pull out and back, lead with pinkies*
 
 **Traps**
-- [ ] E: Cable Upright Row (wide grip) — 3x12-15 (45s rest) — 3 min
-    - *Wide grip, pull to lower chest, elbows lead, no shrugging past shoulder height*
+- [ ] E: Trap Bar Shrug — 3x12-15 (45s rest) — 3 min
+    - *Heavy, straight up toward ears, 1s squeeze at top, no rolling*
 
 **Arms**
-- [ ] F1: Incline Dumbbell Curl — 3x10
-    - *Bench at 45°, arms hang back, full stretch, curl without swinging*
-- [ ] F2: Close-Grip Bench Press — 3x10 (45s rest) — 4 min
-    - *Hands shoulder-width, elbows tucked, bar to lower chest*
+- [ ] F1: EZ-Bar Curl — 3x10
+    - *Elbows pinned, squeeze at top, slow negative*
+- [ ] F2: Rope Triceps Pushdown — 3x12 (45s rest) — 4 min
+    - *Elbows pinned, spread the rope at the bottom, full extension*
 
 ### Core + Cardio Finisher (11 min)
-- [ ] Hanging Windshield Wipers (bent knee) — 3x8 (15s rest) — 2 min
-    - *Knees up, rotate side to side under control*
-- [ ] Stir the Pot (stability ball) — 3x8/direction (15s rest) — 2 min
-    - *Forearms on ball, small circles, hips dead still*
+- [ ] Hollow Body Hold — 3x20s (15s rest) — 2 min
+    - *Low back pressed down, arms and legs long, ribs down*
+- [ ] Plank Pull-Through — 3x8/side (15s rest) — 2 min
+    - *Plank on hands, drag DB under torso side to side, hips still*
 - [ ] Bike, Treadmill, or Stairmaster — 8 min
 
 **Total: ~48 min**
@@ -192,39 +193,35 @@
 ### Main Workout (26 min)
 
 **Hamstrings (Primary)**
-- [ ] A: Trap Bar Deadlift *(KEEP — final cycle, swaps 2026-08-30)* — 4x6-8 (90s rest) — 7 min
-    - *Grip center handles, chest up, drive through floor, hinge and lower*
+- [ ] A: Barbell Romanian Deadlift *(NEW — replaces Trap Bar Deadlift; KEEP 4-6 weeks)* — 4x6-8 (90s rest) — 7 min
+    - *Bar slides down thighs, soft knees, hinge until hamstrings pull hard, stand tall*
     - **Top set:** — lbs x — reps
-- [ ] B1: Single-Leg Hip Thrust (DB) — 3x10/side
-    - *Shoulders on bench, one foot down, drive hips to full lockout*
-- [ ] B2: Sled Push (or steep incline walk) — 3x20 yd (60s rest) — 5 min
-    - *Low grip, flat back, drive hard through the legs*
+- [ ] B1: Dumbbell Step-Up — 3x8/leg
+    - *Knee-height box, drive through top heel, no push-off from back leg*
+- [ ] B2: Box Jump — 3x5 (60s rest) — 5 min
+    - *Explode up, land soft and quiet, step down between reps*
 
 **Glutes (Primary)**
-- [ ] C: Cable Pull-Through *(KEEP — final cycle, swaps 2026-08-30)* — 4x12-15 (60s rest) — 5 min
-    - *Hinge at hips, squeeze glutes hard at top, don't hyperextend*
+- [ ] C: Barbell Hip Thrust *(NEW — replaces Cable Pull-Through; KEEP 4-6 weeks)* — 4x10-12 (60s rest) — 5 min
+    - *Upper back on bench, bar over hips, drive to full lockout, 1s squeeze at top*
     - **Top set:** — lbs x — reps
 
-**Quads (Secondary)**
-- [ ] D: Front-Foot-Elevated Split Squat (DB) — 3x8/leg (60s rest) — 4 min
-    - *Front foot on a plate, deep knee bend, front leg does the work*
-
 **Hip Flexors**
-- [ ] E: Hanging Knee Raise — 3x12 (45s rest) — 2 min
-    - *Knees to chest, curl pelvis at top, no swinging*
+- [ ] D: Banded Psoas March (lying) — 3x12/leg (45s rest) — 2 min
+    - *Band around feet, low back pressed down, drive knees alternately to chest*
 
 **Calves**
-- [ ] F: Donkey Calf Raise (or machine) — 3x15 (45s rest) — 3 min
-    - *Hinged at hips, full stretch, hard pause at top*
+- [ ] E: Seated Calf Raise — 3x15 (45s rest) — 3 min
+    - *Full stretch at bottom, pause at top, soleus focus*
 
 ### Core + Cardio Finisher (11 min)
-- [ ] Turkish Get-Up (light) — 2x3/side (15s rest) — 2 min
-    - *Slow and deliberate, eyes on the weight the whole way up*
-- [ ] Farmer's Carry — 2x40s (15s rest) — 2 min
-    - *Heavy DBs both hands, tall posture, quick quiet steps*
+- [ ] Landmine Rotation — 3x8/side (15s rest) — 2 min
+    - *Arms long, rotate from hips, core drives the bar arc*
+- [ ] Suitcase Carry — 2x40s/side (15s rest) — 2 min
+    - *One heavy DB, stay perfectly upright, don't lean into it*
 - [ ] Bike, Treadmill, or Stairmaster — 8 min
 
-**Total: ~47 min**
+**Total: ~46 min**
 
 ---
 
@@ -232,11 +229,11 @@
 
 | Day | Exercise | Rotation | Track Weekly |
 |-----|----------|----------|--------------|
-| Day 1 | Flat Dumbbell Bench Press | New 2026-08-16 (prev: incline barbell, flat barbell) | Weight + reps |
-| Day 2 | Box Squat (back-rack) | New 2026-08-16 (prev: back squat; front-rack variations retired) | Weight + reps |
-| Day 3 | Weighted Chin-Up | New 2026-08-16 — swapped in at Weighted Pull-Up's 6-week mark | Weight + reps |
-| Day 4 | Trap Bar Deadlift | Final cycle (~6 weeks in; first completion just logged) — swaps 2026-08-30 | Weight + reps |
-| Day 4 | Cable Pull-Through | Final cycle (~6 weeks in; first completion just logged) — swaps 2026-08-30 | Weight + reps |
+| Day 1 | Flat Barbell Bench Press | Returns 2026-08-30 (prev: DB bench, incline barbell) | Weight + reps |
+| Day 2 | Pause Back Squat | New 2026-08-30 (prev: box squat, back squat) | Weight + reps |
+| Day 3 | Weighted Chin-Up | Keep 4-6 weeks (in since 2026-08-16, ~2 weeks) | Weight + reps |
+| Day 4 | Barbell Romanian Deadlift | NEW keeper 2026-08-30 (trap bar DL retired after 6+ weeks) | Weight + reps |
+| Day 4 | Barbell Hip Thrust | NEW keeper 2026-08-30 (pull-through retired after 6+ weeks) | Weight + reps |
 
 The bench and squat slots always keep the 4x6-8 heavy strength scheme — only
 the variation changes (squat slot: back-rack/freely-loaded only), and it
@@ -271,10 +268,10 @@ never repeats the previous 1-2 versions.
 
 | Day | Exercises | Focus |
 |-----|-----------|-------|
-| Day 1 | Cable Crunch, Med Ball Rotational Slam | Compression + Rotational power |
-| Day 2 | Half-Kneeling Cable Chop, Side Plank Hip Lift | Rotation + Lateral stability |
-| Day 3 | Windshield Wipers, Stir the Pot | Rotation control + Anti-extension |
-| Day 4 | Turkish Get-Up, Farmer's Carry | Total-body stability + Carries |
+| Day 1 | Ab Wheel Rollout, High-to-Low Cable Chop | Anti-extension + Rotation |
+| Day 2 | Pallof Press, Body Saw | Anti-rotation + Anti-extension |
+| Day 3 | Hollow Body Hold, Plank Pull-Through | Compression + Anti-rotation |
+| Day 4 | Landmine Rotation, Suitcase Carry | Rotational power + Carries |
 
 ---
 
@@ -299,11 +296,11 @@ weight.*
 ## Update Cadence
 
 This program is refreshed every other Sunday morning (biweekly:
-Aug 16, Aug 30, ...) by a scheduled routine. Each refresh:
+Aug 30, Sep 13, ...) by a scheduled routine. Each refresh:
 
 1. Rotates the warmup, accessories, core, trap slot, and the bench/squat
    variations (heavy keepers stay 4-6 weeks; squat slot is back-rack only)
-2. Replaces the content of the Notion "💪🏽 Workouts" page
+2. Replaces the content of the Notion "💪🏽 Workouts" page (updated FIRST)
 3. Archives the previous version of this file to `archive/` and commits the
    new one here
 
