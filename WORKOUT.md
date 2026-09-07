@@ -1,4 +1,4 @@
-# 4-DAY WORKOUT SPLIT
+# 5-DAY WORKOUT SPLIT
 
 *Last updated: 2026-08-30 · Canonical copy lives in Notion ("💪🏽 Workouts" page); this file is the version history for the biweekly refresh.*
 

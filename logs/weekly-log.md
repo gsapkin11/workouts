@@ -156,3 +156,24 @@ now 2-for-2 weeks each).
 |------|----------|---------|-------|
 | 2026-08-06 | Back Squat (user-swapped from Front Squat) | 135 lbs x 30 reps | First entry; likely 30 total reps over 4 sets |
 | 2026-08-22 | Flat Dumbbell Bench Press | 55 lbs x 14 reps (per DB) | 14 reps at 4x6-8 target — move up to ~60s |
+
+---
+
+## Week ending 2026-09-06
+
+*First week on the v5 program (barbell bench, pause squat, RDL, hip
+thrust) and first week with Day 5 in the split (49 total items now).*
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Day 1: Upper A | Barbell Bench (first session back), DB Fly, Chest-Supported Row, Arnold Press, Lateral Raise, OH Triceps Ext, Hammer Curl, Cable Chop | Incline Machine Press, Ab Wheel, cardio | 9/11 (82%) |
+| Day 2: Lower A | — | Everything | 0/11 |
+| Day 3: Upper B | — | Everything | 0/12 |
+| Day 4: Lower B | — | Everything | 0/10 |
+| Day 5: Core + Cardio | — | Everything | 0/5 |
+
+**Overall:** 9/49 (18%). One session — lightest week logged (trend:
+44% → 41% → 59% → 64% → 41% → 18%). Day 1 remains automatic (6-week
+completion streak); everything after it slipped this week. New barbell
+bench got its first session (no top set logged). Note: Grant renamed
+the page header to "5-DAY WORKOUT SPLIT" — mirrored in WORKOUT.md.
