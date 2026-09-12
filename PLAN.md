@@ -11,11 +11,17 @@ same scale weight.
 
 ## The Commitment
 
-**Floor: 4 LIFTING sessions per week (Days 1-4). Every week. No
-exceptions.** On top of that: Day 5 (core + cardio) 1-2x per week —
-run it twice on a good week; it's short and needs no barbell. Day 5
-does NOT substitute for a lifting day; it's its own target. Travel
-weeks included: hotel gyms count.
+**5 LIFTING sessions per week (Upper / Lower / Push / Pull / Legs) —
+5 = perfect week, 4 = saved week, legs never slip twice in a row.**
+On top of that: Core + Cardio 1-2x per week — short, no barbell, its
+own target (does not substitute for lifting). Travel weeks included:
+hotel gyms count.
+
+**The 5 main lifts (fixed all 12 weeks):** Barbell Bench Press ·
+Back Squat · Standing Overhead Press · Weighted Chin-Up · Barbell RDL.
+One per lifting day; only the set/rep scheme changes by phase
+(4x8 baseline → 4x6-8 build → 5x5 push → heavy 3-5 peak; chin-up runs
+4x6-8 all block). Accessories and core rotate biweekly as always.
 
 **Priority order when a week gets compressed:**
 1. Whichever LOWER day was missed most recently (legs never slip twice)
@@ -27,7 +33,7 @@ weeks included: hotel gyms count.
 
 | Weeks | Focus |
 |-------|-------|
-| 1-2 (Sep 14-27) | Baselines: log a top set for ALL 5 heavy lifts. Hit the 4-day floor both weeks. Nutrition: guidelines only. |
+| 1-2 (Sep 14-27) | Baselines: log a top set for ALL 5 main lifts. Lift 5x both weeks. Nutrition: guidelines only. |
 | 3-6 (Sep 28 - Oct 25) | Build: add reps/weight on every tracked lift each week. Nutrition decision made (end of week 2) and running. Deload ~week 6 if WHOOP/joints say so. |
 | 7-10 (Oct 26 - Nov 22) | Push: heaviest block. Every keeper lift should be meaningfully above baseline. |
 | 11-12 (Nov 23 - Dec 6) | Peak + assess: final PRs, compare photos/measurements to baseline, plan the next block. |
@@ -64,8 +70,8 @@ it's locked for the remaining 10 weeks.
 
 ## Scoring (what the Sunday recaps grade)
 
-1. **Floor hit?** Lifting sessions completed vs. the 4/week floor — the
-   #1 metric. Day 5 count (target 1-2x) reported alongside.
+1. **Lifts hit?** Lifting sessions vs. 5/week (5 perfect, 4 saved) — the
+   #1 metric. Core/Cardio count (target 1-2x) reported alongside.
 2. **Lifts climbing?** Top sets vs. previous, per lift.
 3. **Week N of 12** — every recap names the week and the phase.
 

@@ -1,272 +1,121 @@
-# 5-DAY WORKOUT SPLIT
+# 5-DAY LIFTING SPLIT + CORE/CARDIO — 12-WEEK PROGRAM
 
-*Last updated: 2026-08-30 · Canonical copy lives in Notion ("💪🏽 Workouts" page); this file is the version history for the biweekly refresh.*
+*Last updated: 2026-09-12 · Canonical copy lives in Notion ("💪🏽 Workouts" dashboard + one sub-page per day); this file is the version history.*
 
-**Focus:** Strength, Reps & Leanness | **Duration:** ~45 min per session
-**Schedule:** Upper A → Lower A → Upper B → Lower B → Core + Cardio → Rest → Rest
-**Progression:** Bench + squat variations rotate every 2 weeks (back-rack squats only) | Heavy keepers stay 4-6 weeks | Accessories + core rotate every 2 weeks | Deload every 4th week
+**Goal:** Stronger + visibly leaner — 12-week block Sep 14 → Dec 6
+**The week:** 5 lifting days (Mon–Fri suggested) + Core/Cardio 1–2x (Sat, optionally Sun) | ~45 min per session
+**Scoring:** 5 lifts = perfect week · 4 = saved week · legs never slip twice in a row
+**Phase:** Week 1–2 · BASELINE — lift 5x both weeks + log a top set on all 5 main lifts
 
----
-
-## WARMUP (8 min)
-
-*Dynamic stretches that activate as you move*
-
-- [ ] **Walkout to Shoulder Tap** — 6 reps
-    - *Walk hands out to plank, tap each shoulder, walk back, stand*
-    - *Activates: chest, shoulders, core, hamstrings*
-- [ ] **Reverse Lunge with Overhead Reach** — 5/side
-    - *Step back into lunge, reach both arms overhead, feel the hip flexor stretch*
-    - *Activates: hip flexors, quads, glutes, shoulders*
-- [ ] **Single-Leg Glute Bridge** — 8/leg
-    - *One foot down, drive hips up, squeeze at top, don't arch low back*
-    - *Activates: glutes, hamstrings, core*
-- [ ] **Open Book** — 8/side
-    - *Side-lying, knees stacked at 90°, rotate top arm open, follow with eyes*
-    - *Activates: thoracic spine, obliques*
-- [ ] **Toy Soldier Kicks** — 10/leg
-    - *Kick straight leg up to opposite hand, stay tall, don't round back*
-    - *Activates: hamstrings, hip flexors*
-- [ ] **Lateral Lunge with Reach** — 6/side
-    - *Step wide, sit into one hip, reach forward, push back to center*
-    - *Activates: adductors, glutes, quads*
-- [ ] **Scap Wall Slide** — 10 reps
-    - *Back and arms against wall, slide arms overhead without arching*
-    - *Activates: shoulders, upper back, traps*
-- [ ] **Bird Dog** — 8/side
-    - *Opposite arm/leg extend, hips square, pause 2s at full reach*
-    - *Activates: deep core, glutes, spinal stabilizers*
-
-### What This Hits
-
-| Area | Exercise |
-|------|----------|
-| Chest/Shoulders | Walkout to Shoulder Tap, Scap Wall Slide |
-| Upper Back/Traps | Scap Wall Slide |
-| Core | Bird Dog, Walkout to Shoulder Tap |
-| Glutes | Single-Leg Glute Bridge, Lateral Lunge, Bird Dog |
-| Hamstrings | Toy Soldier Kicks, Single-Leg Glute Bridge |
-| Hip Flexors | Reverse Lunge with Reach, Toy Soldier Kicks |
-| Thoracic Spine | Open Book |
-| Adductors | Lateral Lunge with Reach |
+**Notion structure:** main page = dashboard (plan, warmup, main-lift table) with six
+child pages: Day 1 · Upper (Bench) / Day 2 · Lower (Squat) / Day 3 · Push (OHP) /
+Day 4 · Pull (Chin-Up) / Day 5 · Legs (RDL) / Core + Cardio (1-2x/week).
 
 ---
 
-## Day 1: Upper A (Chest Emphasis)
+## THE 5 MAIN LIFTS (fixed all 12 weeks)
 
-### Warmup (10 min)
-*(See Consistent Warmup above)*
+| Day | Lift | Scheme by phase | Baseline |
+|-----|------|-----------------|----------|
+| 1 | Barbell Bench Press | 4x8 → 4x6-8 → 5x5 → heavy 3-5 | — log wk 1-2 |
+| 2 | Back Squat | 4x8 → 4x6-8 → 5x5 → heavy 3-5 | 135x30 (8/6, pre-block) |
+| 3 | Standing Overhead Press | 4x8 → 4x6-8 → 5x5 → heavy 3-5 | — log wk 1-2 |
+| 4 | Weighted Chin-Up | 4x6-8 all block (add weight at 8s) | — log wk 1-2 |
+| 5 | Barbell RDL | 4x8 → 4x6-8 → 5x5 → heavy 3-5 | — log wk 1-2 |
 
-### Main Workout (24 min)
+Phases: wks 1-2 Baseline (4x8, 2 in the tank) · 3-6 Build · 7-10 Push · 11-12 Peak.
+Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 
-**Chest (Primary)**
-- [ ] A: Flat Barbell Bench Press *(rotates each refresh — the classic returns)* — 4x6-8 (90s rest) — 7 min
+---
+
+## WARMUP (10 min — before every lifting day)
+
+- [ ] Scap Push-Up (Push-Up Plus) — 10 · *pinch blades, push floor away* (chest, shoulders, serratus)
+- [ ] Squat to Stand with Reach — 8 · *grab toes, deep squat, reach up* (hamstrings, quads, shoulders)
+- [ ] Spiderman Lunge with T-Rotation — 5/side · *hand inside foot, rotate up* (hip flexors, t-spine, glutes)
+- [ ] Cossack Squat — 6/side · *shift over one leg* (adductors, quads, glutes)
+- [ ] Thread the Needle — 8/side · *arm under and through* (t-spine, obliques)
+- [ ] Frog Pumps — 12 · *soles together, hips up* (glutes)
+- [ ] High Knee March with Arm Swings — 20 steps · *tall, knee to hip height* (hip flexors, calves)
+- [ ] Plank with Alternating Leg Lift — 8/side · *no hip rotation* (deep core, glutes)
+
+---
+
+## Day 1 · Upper (Bench) — ~45 min
+
+- [ ] A: **Barbell Bench Press** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps
     - *Retract shoulder blades, feet flat, touch chest, drive through chest not shoulders*
-    - **Top set:** — lbs x — reps
-- [ ] B1: Flat Dumbbell Fly — 3x12
-    - *Slight elbow bend, wide arc, squeeze chest at top, don't overstretch*
-- [ ] B2: Incline Machine Press — 3x10 (60s rest) — 5 min
-    - *Full stretch at the bottom, drive up and slightly back, slow negative*
+- [ ] B1: Chest-Supported Dumbbell Row — 3x10 · *pull to hips, squeeze blades*
+- [ ] B2: Machine Fly (Pec Deck) — 3x12 (60s) · *squeeze pads together, slow stretch back*
+- [ ] C1: Dumbbell Lateral Raise — 3x12-15 · *lead with elbows, stop at shoulder height*
+- [ ] C2: Preacher Curl (EZ bar) — 3x12 (45s) · *full stretch at bottom, no bounce*
+- [ ] D: Rope Triceps Pushdown — 3x12 (45s) · *elbows pinned, spread the rope*
+- [ ] Core: Hanging Leg Raise 3x10 · Russian Twist (plate) 3x12/side
+- [ ] Cardio — 8 min
 
-**Back (Secondary)**
-- [ ] C: Chest-Supported Dumbbell Row — 3x10 (45s rest) — 3 min
-    - *Chest on incline bench, pull to hips, squeeze blades, no momentum*
+## Day 2 · Lower (Squat) — ~46 min
 
-**Shoulders**
-- [ ] D1: Seated Arnold Press — 3x10
-    - *Start palms facing you, rotate out as you press, full lockout*
-- [ ] D2: Dumbbell Lateral Raise — 3x12-15 (45s rest) — 4 min
-    - *Slight forward lean, lead with elbows, stop at shoulder height*
+- [ ] A: **Back Squat** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps *(last: 135x30, 8/6)*
+    - *Bar on upper traps, brace core, sit deep, drive through whole foot*
+- [ ] B1: Reverse Lunge (DB) — 3x10/leg · *drop rear knee, drive through front heel*
+- [ ] B2: Leg Press — 3x12 (60s) · *deep controlled reps, don't lock out hard*
+- [ ] C: 45° Back Extension (hamstring focus) — 3x12 (60s) · *toes in, flat back, add a plate*
+- [ ] D1: Side-Lying Hip Adduction — 3x12/side
+- [ ] D2: Banded Clamshell — 3x15/side (45s) · *slow, no hip rolling*
+- [ ] E: Single-Leg Calf Raise (DB) — 3x12/leg (45s) · *full stretch, pause at top*
+- [ ] Core: V-Ups 3x10 · Weighted Plank 3x30s
+- [ ] Cardio — 8 min
 
-**Arms**
-- [ ] E1: Overhead Cable Triceps Extension — 3x12
-    - *Face away from stack, elbows by ears, feel the long-head stretch, extend fully*
-- [ ] E2: Hammer Curl — 3x12 (45s rest) — 4 min
-    - *Neutral grip, elbows pinned, control the negative*
+## Day 3 · Push (OHP) — ~45 min
 
-### Core + Cardio Finisher (11 min)
-- [ ] Ab Wheel Rollout — 3x10 (15s rest) — 2 min
-    - *Hips tucked, roll out slow, don't let low back arch*
-- [ ] High-to-Low Cable Chop — 3x10/side (15s rest) — 2 min
-    - *Cable set high, chop across body to opposite hip, rotate from hips*
-- [ ] Bike, Treadmill, or Stairmaster — 8 min
-
-**Total: ~45 min**
-
----
-
-## Day 2: Lower A (Quad Emphasis + Hamstring Secondary)
-
-### Warmup (10 min)
-*(See Consistent Warmup above)*
-
-### Main Workout (25 min)
-
-**Quads (Primary)**
-- [ ] A: Pause Back Squat *(rotates each refresh)* — 4x6-8 (90s rest) — 7 min
-    - *Bar on upper traps, sit deep, dead-stop 2s in the hole, drive up hard*
-    - **Top set:** — lbs x — reps *(related: back squat 135x30, 8/6)*
-- [ ] B1: Bulgarian Split Squat (DB) — 3x10/leg
-    - *Rear foot on bench, torso tall, drive through front heel*
-- [ ] B2: Heels-Elevated Goblet Squat — 3x12 (60s rest) — 5 min
-    - *Heels on plate, sit deep between knees, quads do the work*
-
-**Hamstrings (Secondary)**
-- [ ] C: Dumbbell RDL — 3x10 (45s rest) — 3 min
-    - *Hinge at hips, DBs slide down thighs, flat back, feel hamstring stretch*
-- [ ] D: 45° Back Extension (hamstring focus) — 3x12 (60s rest) — 4 min
-    - *Kept — completed every week since it came in. Toes in, flat back, add a plate to progress*
-
-**Adductors/Abductors**
-- [ ] E1: Sumo Squat (DB, adductor focus) — 3x12
-    - *Wide stance, toes out, sit straight down, squeeze inner thighs up*
-- [ ] E2: Banded Lateral Walk — 3x12 steps/direction (45s rest) — 3 min
-    - *Band above knees, stay low, controlled steps, knees pushed out*
-
-**Calves**
-- [ ] F: Standing Calf Raise — 3x15 (45s rest) — 3 min
-    - *Full stretch at bottom, pause at top, no bouncing*
-
-### Core + Cardio Finisher (11 min)
-- [ ] Pallof Press — 3x10/side (15s rest) — 2 min
-    - *Cable at chest height, press out, resist rotation, hips square*
-- [ ] Body Saw (sliders or towel) — 3x8 (15s rest) — 2 min
-    - *Forearm plank on sliders, rock forward and back, ribs down the whole time*
-- [ ] Bike, Treadmill, or Stairmaster — 8 min
-
-**Total: ~46 min**
-
----
-
-## Day 3: Upper B (Back Emphasis)
-
-### Warmup (10 min)
-*(See Consistent Warmup above)*
-
-### Main Workout (27 min)
-
-**Back (Primary)**
-- [ ] A: Weighted Chin-Up *(KEEP 4-6 weeks — 2 weeks in)* — 4x6-8 (75s rest) — 6 min
-    - *Palms facing you, full hang, pull chest to bar, biceps and lats together*
-    - **Top set:** +— lbs x — reps
-- [ ] B1: Barbell Bent-Over Row — 3x10
-    - *Hinge ~45°, pull to lower ribs, squeeze blades, no jerking*
-- [ ] B2: Lat Pulldown (wide grip) — 3x12 (60s rest) — 5 min
-    - *Chest up, pull to collarbone, elbows down and back, slow return*
-
-**Chest (Secondary)**
-- [ ] C: Machine Chest Press — 3x12 (45s rest) — 3 min
-    - *Control the negative, squeeze chest, don't slam the stack*
-
-**Shoulders**
-- [ ] D1: Standing Barbell Overhead Press — 3x10
+- [ ] A: **Standing Overhead Press** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps
     - *Glutes tight, bar path close to face, lock out overhead*
-- [ ] D2: Cable Rear-Delt Fly (crossover) — 3x15 (45s rest) — 4 min
-    - *Cross the cables, pull out and back, lead with pinkies*
+- [ ] B1: Incline Dumbbell Press — 3x10 · *full stretch at bottom, press up and back*
+- [ ] B2: Deficit Push-Up — 3x12 (60s) · *chest below hand level, full lockout*
+- [ ] C1: Cable Y-Raise — 3x12 · *light, up and out into a Y*
+- [ ] C2: Overhead Cable Triceps Extension — 3x12 (45s) · *elbows by ears, long-head stretch*
+- [ ] D: Diamond Push-Up — 3x12 (45s) · *elbows tight to ribs*
+- [ ] Core: Ab Wheel Rollout 3x10 · High-to-Low Cable Chop 3x10/side
+- [ ] Cardio — 8 min
 
-**Traps**
-- [ ] E: Trap Bar Shrug — 3x12-15 (45s rest) — 3 min
-    - *Heavy, straight up toward ears, 1s squeeze at top, no rolling*
+## Day 4 · Pull (Chin-Up) — ~48 min
 
-**Arms**
-- [ ] F1: EZ-Bar Curl — 3x10
-    - *Elbows pinned, squeeze at top, slow negative*
-- [ ] F2: Rope Triceps Pushdown — 3x12 (45s rest) — 4 min
-    - *Elbows pinned, spread the rope at the bottom, full extension*
+- [ ] A: **Weighted Chin-Up** (MAIN) — 4x6-8 (75s) · **Top set:** +— lbs x — reps
+    - *Palms facing you, full hang, pull chest to bar*
+- [ ] B1: Barbell Bent-Over Row — 3x10 · *hinge ~45°, pull to lower ribs*
+- [ ] B2: Lat Pulldown (neutral grip) — 3x12 (60s) · *chest up, elbows down and back*
+- [ ] C1: Bent-Over Rear-Delt Fly (DB) — 3x15 · *lead with pinkies*
+- [ ] C2: Dumbbell Shrug — 3x12-15 (45s) · *straight up, 1s squeeze* [trap slot]
+- [ ] D1: Incline Dumbbell Curl — 3x10 · *arms hang back, full stretch*
+- [ ] D2: Hammer Curl — 3x12 (45s) · *neutral grip, elbows pinned*
+- [ ] Core: L-Sit Hold 3x15-20s · Renegade Row 3x8/side
+- [ ] Cardio — 8 min
 
-### Core + Cardio Finisher (11 min)
-- [ ] Hollow Body Hold — 3x20s (15s rest) — 2 min
-    - *Low back pressed down, arms and legs long, ribs down*
-- [ ] Plank Pull-Through — 3x8/side (15s rest) — 2 min
-    - *Plank on hands, drag DB under torso side to side, hips still*
-- [ ] Bike, Treadmill, or Stairmaster — 8 min
+## Day 5 · Legs (RDL) — ~46 min
 
-**Total: ~48 min**
+- [ ] A: **Barbell Romanian Deadlift** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps
+    - *Bar slides down thighs, soft knees, hinge until hamstrings pull hard*
+- [ ] B1: Barbell Hip Thrust — 3x10-12 · *full lockout, 1s squeeze at top*
+- [ ] B2: Broad Jump — 3x5 (60s) · *explode, land soft, reset each rep*
+- [ ] C: Good Morning (barbell, light) — 3x10 (45s) · *soft knees, hinge till hamstrings pull*
+- [ ] D: Hack Squat (machine) — 3x10 (60s) · *feet low for quads*
+- [ ] E: Smith Machine Calf Raise — 3x15 (45s) · *full stretch, pause hard at top*
+- [ ] Core: Cable Woodchop 3x10/side · Suitcase Carry 2x40s/side
+- [ ] Cardio — 8 min
 
----
+## Core + Cardio (1-2x/week) — ~40 min
 
-## Day 4: Lower B (Posterior Emphasis + Quad Secondary)
-
-### Warmup (10 min)
-*(See Consistent Warmup above)*
-
-### Main Workout (26 min)
-
-**Hamstrings (Primary)**
-- [ ] A: Barbell Romanian Deadlift *(NEW — replaces Trap Bar Deadlift; KEEP 4-6 weeks)* — 4x6-8 (90s rest) — 7 min
-    - *Bar slides down thighs, soft knees, hinge until hamstrings pull hard, stand tall*
-    - **Top set:** — lbs x — reps
-- [ ] B1: Dumbbell Step-Up — 3x8/leg
-    - *Knee-height box, drive through top heel, no push-off from back leg*
-- [ ] B2: Box Jump — 3x5 (60s rest) — 5 min
-    - *Explode up, land soft and quiet, step down between reps*
-
-**Glutes (Primary)**
-- [ ] C: Barbell Hip Thrust *(NEW — replaces Cable Pull-Through; KEEP 4-6 weeks)* — 4x10-12 (60s rest) — 5 min
-    - *Upper back on bench, bar over hips, drive to full lockout, 1s squeeze at top*
-    - **Top set:** — lbs x — reps
-
-**Hip Flexors**
-- [ ] D: Banded Psoas March (lying) — 3x12/leg (45s rest) — 2 min
-    - *Band around feet, low back pressed down, drive knees alternately to chest*
-
-**Calves**
-- [ ] E: Seated Calf Raise — 3x15 (45s rest) — 3 min
-    - *Full stretch at bottom, pause at top, soleus focus*
-
-### Core + Cardio Finisher (11 min)
-- [ ] Landmine Rotation — 3x8/side (15s rest) — 2 min
-    - *Arms long, rotate from hips, core drives the bar arc*
-- [ ] Suitcase Carry — 2x40s/side (15s rest) — 2 min
-    - *One heavy DB, stay perfectly upright, don't lean into it*
-- [ ] Bike, Treadmill, or Stairmaster — 8 min
-
-**Total: ~46 min**
+- Warmup (5 min): Scap Push-Up, Frog Pumps, Thread the Needle, Plank w/ Leg Lift — one set each
+- Core circuit, 3 rounds (15s/60s rests):
+  - [ ] Weighted Dead Bug — 10/side
+  - [ ] Side Plank — 30s/side
+  - [ ] Mountain Climbers — 20/side
+  - [ ] Plank Shoulder Taps — 12/side
+- [ ] Cardio — 20 min steady or 10x (1 min hard / 1 min easy)
 
 ---
 
-## Day 5: Core + Cardio (~40 min)
-
-### Warmup (5 min)
-*Just the essentials: Walkout to Shoulder Tap, Single-Leg Glute Bridge, Open Book, Bird Dog — one set each*
-
-### Core Circuit (~15 min)
-*3 rounds, 15s rest between exercises, 60s between rounds — rotates each refresh*
-
-- [ ] Hanging Leg Raise — 10 reps
-    - *Legs straight, curl pelvis at top, no swinging*
-- [ ] Russian Twist (plate) — 12/side
-    - *Heels light on floor, rotate shoulders not just arms*
-- [ ] Weighted Plank — 30s
-    - *Plate on upper back, straight line head to heels, no sag*
-- [ ] V-Ups — 10 reps
-    - *Arms and legs straight, fold in the middle, control the descent*
-
-### Cardio (20 min)
-- [ ] Bike, Treadmill, or Stairmaster — 20 min
-    - *Steady pace you could hold a conversation at — OR 10 rounds of 1 min hard / 1 min easy*
-
-**Total: ~40 min**
-
----
-
-## Main Compounds
-
-| Day | Exercise | Rotation | Track Weekly |
-|-----|----------|----------|--------------|
-| Day 1 | Flat Barbell Bench Press | Returns 2026-08-30 (prev: DB bench, incline barbell) | Weight + reps |
-| Day 2 | Pause Back Squat | New 2026-08-30 (prev: box squat, back squat) | Weight + reps |
-| Day 3 | Weighted Chin-Up | Keep 4-6 weeks (in since 2026-08-16, ~2 weeks) | Weight + reps |
-| Day 4 | Barbell Romanian Deadlift | NEW keeper 2026-08-30 (trap bar DL retired after 6+ weeks) | Weight + reps |
-| Day 4 | Barbell Hip Thrust | NEW keeper 2026-08-30 (pull-through retired after 6+ weeks) | Weight + reps |
-
-The bench and squat slots always keep the 4x6-8 heavy strength scheme — only
-the variation changes (squat slot: back-rack/freely-loaded only), and it
-never repeats the previous 1-2 versions.
-
----
-
-## Deload Protocol (Every 4th Week)
+## Deload Protocol (~Week 6, if the streak holds)
 
 | Adjustment | How |
 |------------|-----|
@@ -277,35 +126,10 @@ never repeats the previous 1-2 versions.
 
 ---
 
-## Weekly Summary
-
-| Component | Weekly Total |
-|-----------|--------------|
-| Warmup | 45 min (10 min x 4 + 5 min Day 5) |
-| Lifting | ~102 min |
-| Core | ~31 min (4 min x 4 + 15 min Day 5) |
-| Cardio | 52 min (8 min x 4 + 20 min Day 5) |
-| **Total** | **~45-48 min lifting days \| ~40 min Day 5** |
-
----
-
-## Core Training Summary (2 Exercises/Day)
-
-| Day | Exercises | Focus |
-|-----|-----------|-------|
-| Day 1 | Ab Wheel Rollout, High-to-Low Cable Chop | Anti-extension + Rotation |
-| Day 2 | Pallof Press, Body Saw | Anti-rotation + Anti-extension |
-| Day 3 | Hollow Body Hold, Plank Pull-Through | Compression + Anti-rotation |
-| Day 4 | Landmine Rotation, Suitcase Carry | Rotational power + Carries |
-| Day 5 | Hanging Leg Raise, Russian Twist, Weighted Plank, V-Ups (circuit) | Full core circuit + 20 min cardio |
-
----
-
 ## Strength Tracker
 
-*Log your top set (weight x reps) on the heavy lifts each session. Goal:
-beat the previous entry for the same lift — one more rep or a little more
-weight. This section carries over across refreshes; entries are never wiped.*
+*Top sets on the 5 main lifts. Goal: beat the previous entry. Carries over
+across refreshes; entries are never wiped.*
 
 *Weight conventions: dumbbell lifts = per-dumbbell weight (55 = a pair of
 55s), barbell lifts = total bar weight including plates, chin-up/pull-up =
@@ -314,22 +138,14 @@ weight.*
 
 | Date | Exercise | Top Set (weight x reps) | Notes |
 |------|----------|-------------------------|-------|
-| 2026-08-06 | Back Squat (user-swapped from Front Squat) | 135 lbs x 30 reps | First entry; likely 30 total reps over 4 sets |
-| 2026-08-22 | Flat Dumbbell Bench Press | 55 lbs x 14 reps (per DB) | 14 reps at 4x6-8 target — move up to ~60s |
+| 2026-08-06 | Back Squat (user-swapped from Front Squat) | 135 lbs x 30 reps | Pre-block; likely 30 total reps over 4 sets |
+| 2026-08-22 | Flat Dumbbell Bench Press | 55 lbs x 14 reps (per DB) | Pre-block; different lift from barbell bench |
 
 ---
 
 ## Update Cadence
 
-This program is refreshed every other Sunday morning (biweekly:
-Aug 30, Sep 13, ...) by a scheduled routine. Each refresh:
-
-1. Rotates the warmup, accessories, core, trap slot, and the bench/squat
-   variations (heavy keepers stay 4-6 weeks; squat slot is back-rack only)
-2. Replaces the content of the Notion "💪🏽 Workouts" page (updated FIRST)
-3. Archives the previous version of this file to `archive/` and commits the
-   new one here
-
-Past versions live in `archive/`. Weekly completion history lives in
-`logs/weekly-log.md`. The Strength Tracker table above is the permanent
-lift history (the Notion page carries only the inline top-set blanks).
+Biweekly Sunday refreshes rotate the warmup, accessories, and core (main
+lifts NEVER rotate during the block — only their phase scheme changes).
+The refresh updates the Notion day sub-pages first, then this file.
+Weekly history: `logs/weekly-log.md`. The plan: `PLAN.md`.
