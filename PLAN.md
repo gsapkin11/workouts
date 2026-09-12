@@ -11,12 +11,11 @@ same scale weight.
 
 ## The Commitment
 
-**Floor: 4 sessions per week. Every week. No exceptions.**
-The 4 lifting days (Upper A / Lower A / Upper B / Lower B) are the floor;
-Day 5 (core + cardio) is the bonus fifth. If a lifting day genuinely
-can't happen, Day 5 counts toward the floor as a substitute — a 4-session
-week is a 4-session week. Travel weeks included: hotel gyms count,
-Day 5 needs almost nothing.
+**Floor: 4 LIFTING sessions per week (Days 1-4). Every week. No
+exceptions.** On top of that: Day 5 (core + cardio) 1-2x per week —
+run it twice on a good week; it's short and needs no barbell. Day 5
+does NOT substitute for a lifting day; it's its own target. Travel
+weeks included: hotel gyms count.
 
 **Priority order when a week gets compressed:**
 1. Whichever LOWER day was missed most recently (legs never slip twice)
@@ -65,7 +64,8 @@ it's locked for the remaining 10 weeks.
 
 ## Scoring (what the Sunday recaps grade)
 
-1. **Floor hit?** Sessions completed vs. the 4/week floor — the #1 metric.
+1. **Floor hit?** Lifting sessions completed vs. the 4/week floor — the
+   #1 metric. Day 5 count (target 1-2x) reported alongside.
 2. **Lifts climbing?** Top sets vs. previous, per lift.
 3. **Week N of 12** — every recap names the week and the phase.
 
