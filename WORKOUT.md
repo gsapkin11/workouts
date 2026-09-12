@@ -151,8 +151,8 @@
     - **Top set:** +— lbs x — reps
 - [ ] B1: Barbell Bent-Over Row — 3x10
     - *Hinge ~45°, pull to lower ribs, squeeze blades, no jerking*
-- [ ] B2: Dumbbell Pullover — 3x12 (60s rest) — 5 min
-    - *Slight elbow bend, lower behind head, pull back over with lats*
+- [ ] B2: Lat Pulldown (wide grip) — 3x12 (60s rest) — 5 min
+    - *Chest up, pull to collarbone, elbows down and back, slow return*
 
 **Chest (Secondary)**
 - [ ] C: Machine Chest Press — 3x12 (45s rest) — 3 min
