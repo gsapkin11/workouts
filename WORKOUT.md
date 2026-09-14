@@ -140,8 +140,8 @@ weight.*
 
 ## Update Cadence
 
-Biweekly Sunday refreshes rotate the warmup, accessories, core, AND the
-heavy-slot variations (within their pattern pools); the phase scheme is
-set by the plan.
+The WARMUP rotates WEEKLY (every Sunday night). Biweekly Sunday refreshes
+rotate the accessories, core, and heavy-slot variations (within their
+pattern pools); the phase scheme is set by the plan.
 The refresh updates the Notion day sub-pages first, then this file.
 Weekly history: `logs/weekly-log.md`. The plan: `PLAN.md`.
