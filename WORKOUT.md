@@ -3,13 +3,12 @@
 *Last updated: 2026-09-12 · Canonical copy lives in Notion ("💪🏽 Workouts" dashboard + one sub-page per day); this file is the version history.*
 
 **Goal:** Stronger + visibly leaner — 12-week block Sep 14 → Dec 6
-**The week:** 5 lifting days (Mon–Fri suggested) + Core/Cardio 1–2x (Sat, optionally Sun) | ~45 min per session
+**The week:** Mon Upper · Tue Lower · Wed Push · Thu Pull · Fri Legs · Sat Core/Cardio (optional 2nd Sun) | ~45 min per session
 **Scoring:** 5 lifts = perfect week · 4 = saved week · legs never slip twice in a row
 **Phase:** Week 1–2 · BASELINE — lift 5x both weeks + log a top set on all 5 main lifts
 
 **Notion structure:** main page = dashboard (plan, warmup, main-lift table) with six
-child pages: Day 1 · Upper (Bench) / Day 2 · Lower (Squat) / Day 3 · Push (OHP) /
-Day 4 · Pull (Chin-Up) / Day 5 · Legs (RDL) / Core + Cardio (1-2x/week).
+child pages named by weekday (Monday Upper ... Saturday Core+Cardio), plus Warmup and The 12-Week Plan pages; the homepage is a minimal tab list.
 
 ---
 
@@ -41,7 +40,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 
 ---
 
-## Day 1 · Upper (Bench) — ~45 min
+## Monday · Upper (Bench) — ~45 min
 
 - [ ] A: **Barbell Bench Press** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps
     - *Retract shoulder blades, feet flat, touch chest, drive through chest not shoulders*
@@ -53,7 +52,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 - [ ] Core: Hanging Leg Raise 3x10 · Russian Twist (plate) 3x12/side
 - [ ] Cardio — 8 min
 
-## Day 2 · Lower (Squat) — ~46 min
+## Tuesday · Lower (Squat) — ~46 min
 
 - [ ] A: **Back Squat** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps *(last: 135x30, 8/6)*
     - *Bar on upper traps, brace core, sit deep, drive through whole foot*
@@ -66,7 +65,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 - [ ] Core: V-Ups 3x10 · Weighted Plank 3x30s
 - [ ] Cardio — 8 min
 
-## Day 3 · Push (OHP) — ~45 min
+## Wednesday · Push (OHP) — ~45 min
 
 - [ ] A: **Standing Overhead Press** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps
     - *Glutes tight, bar path close to face, lock out overhead*
@@ -78,7 +77,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 - [ ] Core: Ab Wheel Rollout 3x10 · High-to-Low Cable Chop 3x10/side
 - [ ] Cardio — 8 min
 
-## Day 4 · Pull (Chin-Up) — ~48 min
+## Thursday · Pull (Chin-Up) — ~48 min
 
 - [ ] A: **Weighted Chin-Up** (MAIN) — 4x6-8 (75s) · **Top set:** +— lbs x — reps
     - *Palms facing you, full hang, pull chest to bar*
@@ -91,7 +90,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 - [ ] Core: L-Sit Hold 3x15-20s · Renegade Row 3x8/side
 - [ ] Cardio — 8 min
 
-## Day 5 · Legs (RDL) — ~46 min
+## Friday · Legs (RDL) — ~46 min
 
 - [ ] A: **Barbell Romanian Deadlift** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps
     - *Bar slides down thighs, soft knees, hinge until hamstrings pull hard*
@@ -103,7 +102,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 - [ ] Core: Cable Woodchop 3x10/side · Suitcase Carry 2x40s/side
 - [ ] Cardio — 8 min
 
-## Core + Cardio (1-2x/week) — ~40 min
+## Saturday · Core + Cardio (optional 2nd on Sunday) — ~40 min
 
 - Warmup (5 min): Scap Push-Up, Frog Pumps, Thread the Needle, Plank w/ Leg Lift — one set each
 - Core circuit, 3 rounds (15s/60s rests):
