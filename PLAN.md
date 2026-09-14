@@ -18,12 +18,12 @@ On top of that: Core + Cardio 1-2x per week — short, no barbell, its
 own target (does not substitute for lifting). Travel weeks included:
 hotel gyms count.
 
-**The 4 main lifts (fixed all 12 weeks):** Barbell Bench Press ·
-Back Squat · Weighted Chin-Up · Barbell RDL. (OHP and hip thrust stay
-as accessories.)
-One per lifting day; only the set/rep scheme changes by phase
-(4x8 baseline → 4x6-8 build → 5x5 push → heavy 3-5 peak; chin-up runs
-4x6-8 all block). Accessories and core rotate biweekly as always.
+**The four heavy slots (one per lifting day):** PRESS (Mon) · SQUAT,
+back-rack only (Tue) · PULL (Thu) · HINGE (Fri). The VARIATION in each
+slot rotates every 2 weeks like the accessories; the phase scheme
+(4x8 baseline → 4x6-8 build → 5x5 push → heavy 3-5 peak) applies to
+whatever variation is in the slot. Top sets are logged per variation
+with (last:) memory. OHP and hip thrust also appear as accessories.
 
 **Priority order when a week gets compressed:**
 1. Whichever LOWER day was missed most recently (legs never slip twice)
@@ -35,7 +35,7 @@ One per lifting day; only the set/rep scheme changes by phase
 
 | Weeks | Focus |
 |-------|-------|
-| 1-2 (Sep 14-27) | Baselines: log a top set for ALL 4 main lifts. Lift 4x both weeks. Nutrition: guidelines only. |
+| 1-2 (Sep 14-27) | Baselines: log a top set in all four heavy slots. Lift 4x both weeks. Nutrition: guidelines only. |
 | 3-6 (Sep 28 - Oct 25) | Build: add reps/weight on every tracked lift each week. Nutrition decision made (end of week 2) and running. Deload ~week 6 if WHOOP/joints say so. |
 | 7-10 (Oct 26 - Nov 22) | Push: heaviest block. Every keeper lift should be meaningfully above baseline. |
 | 11-12 (Nov 23 - Dec 6) | Peak + assess: final PRs, compare photos/measurements to baseline, plan the next block. |

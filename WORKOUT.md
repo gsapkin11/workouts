@@ -12,19 +12,19 @@ child pages named by weekday (Monday Upper ... Saturday Core+Cardio), plus Warmu
 
 ---
 
-## THE 4 MAIN LIFTS (fixed all 12 weeks)
+## THE FOUR HEAVY SLOTS (variation rotates every 2 weeks; pattern never changes)
 
-| Day | Lift | Scheme by phase | Baseline |
-|-----|------|-----------------|----------|
-| Mon | Barbell Bench Press | 4x8 → 4x6-8 → 5x5 → heavy 3-5 | — log wk 1-2 |
-| Tue | Back Squat | 4x8 → 4x6-8 → 5x5 → heavy 3-5 | 135x30 (8/6, pre-block) |
-| Thu | Weighted Chin-Up | 4x6-8 all block (add weight at 8s) | — log wk 1-2 |
-| Fri | Barbell RDL | 4x8 → 4x6-8 → 5x5 → heavy 3-5 | — log wk 1-2 |
+| Day | Slot | Current variation | Rotation pool |
+|-----|------|-------------------|---------------|
+| Mon | PRESS | Barbell Bench Press | flat/incline barbell, DB bench |
+| Tue | SQUAT (back-rack only) | Back Squat | back, box, pause, tempo squat |
+| Thu | PULL | Weighted Chin-Up | chin-up, heavy lat pulldown, chest-supported row |
+| Fri | HINGE | Barbell RDL | RDL, trap bar deadlift, heavy hip thrust |
 
-OHP and hip thrust remain in the program as accessories.
-
-Phases: wks 1-2 Baseline (4x8, 2 in the tank) · 3-6 Build · 7-10 Push · 11-12 Peak.
-Accessories and core rotate every 2 weeks as before; main lifts never rotate.
+Phase scheme applies to whatever variation is in the slot: wks 1-2 Baseline
+(4x8, 2 in the tank) · 3-6 Build (4x6-8) · 7-10 Push (5x5) · 11-12 Peak
+(heavy 3-5). Top sets logged per variation with (last:) memory. OHP and
+hip thrust also live in the program as accessories.
 
 ---
 
@@ -43,7 +43,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 
 ## Monday · Upper A (Bench) — ~45 min
 
-- [ ] A: **Barbell Bench Press** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps
+- [ ] A: **Barbell Bench Press** (HEAVY PRESS slot) — 4x8 (90s) · **Top set:** — lbs x — reps
     - *Retract shoulder blades, feet flat, touch chest, drive through chest not shoulders*
 - [ ] B1: Chest-Supported Dumbbell Row — 3x10 · *pull to hips, squeeze blades*
 - [ ] B2: Machine Fly (Pec Deck) — 3x12 (60s) · *squeeze pads together, slow stretch back*
@@ -55,7 +55,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 
 ## Tuesday · Lower A (Squat) — ~46 min
 
-- [ ] A: **Back Squat** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps *(last: 135x30, 8/6)*
+- [ ] A: **Back Squat** (HEAVY SQUAT slot) — 4x8 (90s) · **Top set:** — lbs x — reps *(last: 135x30, 8/6)*
     - *Bar on upper traps, brace core, sit deep, drive through whole foot*
 - [ ] B1: Reverse Lunge (DB) — 3x10/leg · *drop rear knee, drive through front heel*
 - [ ] B2: Leg Press — 3x12 (60s) · *deep controlled reps, don't lock out hard*
@@ -74,7 +74,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 
 ## Thursday · Upper B (Chin-Up) — ~48 min
 
-- [ ] A: **Weighted Chin-Up** (MAIN) — 4x6-8 (75s) · **Top set:** +— lbs x — reps
+- [ ] A: **Weighted Chin-Up** (HEAVY PULL slot) — 4x6-8 (75s) · **Top set:** +— lbs x — reps
     - *Palms facing you, full hang, pull chest to bar*
 - [ ] B1: Standing Overhead Press — 3x8-10 · *glutes tight, bar close to face, lock out*
 - [ ] B2: Lat Pulldown (neutral grip) — 3x12 (60s) · *chest up, elbows down and back*
@@ -88,7 +88,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 
 ## Friday · Lower B (RDL) — ~46 min
 
-- [ ] A: **Barbell Romanian Deadlift** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps
+- [ ] A: **Barbell Romanian Deadlift** (HEAVY HINGE slot) — 4x8 (90s) · **Top set:** — lbs x — reps
     - *Bar slides down thighs, soft knees, hinge until hamstrings pull hard*
 - [ ] B1: Barbell Hip Thrust — 3x10-12 · *full lockout, 1s squeeze at top*
 - [ ] B2: Broad Jump — 3x5 (60s) · *explode, land soft, reset each rep*
@@ -123,7 +123,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 
 ## Strength Tracker
 
-*Top sets on the 4 main lifts. Goal: beat the previous entry. Carries over
+*Top sets on the four heavy slots, logged per variation. Goal: beat the previous entry. Carries over
 across refreshes; entries are never wiped.*
 
 *Weight conventions: dumbbell lifts = per-dumbbell weight (55 = a pair of
@@ -140,7 +140,8 @@ weight.*
 
 ## Update Cadence
 
-Biweekly Sunday refreshes rotate the warmup, accessories, and core (main
-lifts NEVER rotate during the block — only their phase scheme changes).
+Biweekly Sunday refreshes rotate the warmup, accessories, core, AND the
+heavy-slot variations (within their pattern pools); the phase scheme is
+set by the plan.
 The refresh updates the Notion day sub-pages first, then this file.
 Weekly history: `logs/weekly-log.md`. The plan: `PLAN.md`.
