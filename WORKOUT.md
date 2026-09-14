@@ -1,26 +1,27 @@
-# 5-DAY LIFTING SPLIT + CORE/CARDIO — 12-WEEK PROGRAM
+# 4-DAY LIFTING SPLIT + CORE/CARDIO — 12-WEEK PROGRAM
 
-*Last updated: 2026-09-12 · Canonical copy lives in Notion ("💪🏽 Workouts" dashboard + one sub-page per day); this file is the version history.*
+*Last updated: 2026-09-14 · Canonical copy lives in Notion ("💪🏽 Workouts" dashboard + one sub-page per day); this file is the version history.*
 
 **Goal:** Stronger + visibly leaner — 12-week block Sep 14 → Dec 6
-**The week:** Mon Upper · Tue Lower · Wed Push · Thu Pull · Fri Legs · Sat Core/Cardio (optional 2nd Sun) | ~45 min per session
-**Scoring:** 5 lifts = perfect week · 4 = saved week · legs never slip twice in a row
-**Phase:** Week 1–2 · BASELINE — lift 5x both weeks + log a top set on all 5 main lifts
+**The week:** Mon Upper A · Tue Lower A · Wed Core/Cardio · Thu Upper B · Fri Lower B · Sat Core/Cardio (optional 2nd) · Sun rest | ~45 min per session
+**Scoring:** 4 lifts = perfect week · 3 = saved week · legs never slip twice in a row · Core/Cardio target 1-2x
+**Phase:** Week 1–2 · BASELINE — lift 4x both weeks + log a top set on all 4 main lifts
 
 **Notion structure:** main page = dashboard (plan, warmup, main-lift table) with six
 child pages named by weekday (Monday Upper ... Saturday Core+Cardio), plus Warmup and The 12-Week Plan pages; the homepage is a minimal tab list.
 
 ---
 
-## THE 5 MAIN LIFTS (fixed all 12 weeks)
+## THE 4 MAIN LIFTS (fixed all 12 weeks)
 
 | Day | Lift | Scheme by phase | Baseline |
 |-----|------|-----------------|----------|
-| 1 | Barbell Bench Press | 4x8 → 4x6-8 → 5x5 → heavy 3-5 | — log wk 1-2 |
-| 2 | Back Squat | 4x8 → 4x6-8 → 5x5 → heavy 3-5 | 135x30 (8/6, pre-block) |
-| 3 | Standing Overhead Press | 4x8 → 4x6-8 → 5x5 → heavy 3-5 | — log wk 1-2 |
-| 4 | Weighted Chin-Up | 4x6-8 all block (add weight at 8s) | — log wk 1-2 |
-| 5 | Barbell RDL | 4x8 → 4x6-8 → 5x5 → heavy 3-5 | — log wk 1-2 |
+| Mon | Barbell Bench Press | 4x8 → 4x6-8 → 5x5 → heavy 3-5 | — log wk 1-2 |
+| Tue | Back Squat | 4x8 → 4x6-8 → 5x5 → heavy 3-5 | 135x30 (8/6, pre-block) |
+| Thu | Weighted Chin-Up | 4x6-8 all block (add weight at 8s) | — log wk 1-2 |
+| Fri | Barbell RDL | 4x8 → 4x6-8 → 5x5 → heavy 3-5 | — log wk 1-2 |
+
+OHP and hip thrust remain in the program as accessories.
 
 Phases: wks 1-2 Baseline (4x8, 2 in the tank) · 3-6 Build · 7-10 Push · 11-12 Peak.
 Accessories and core rotate every 2 weeks as before; main lifts never rotate.
@@ -40,7 +41,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 
 ---
 
-## Monday · Upper (Bench) — ~45 min
+## Monday · Upper A (Bench) — ~45 min
 
 - [ ] A: **Barbell Bench Press** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps
     - *Retract shoulder blades, feet flat, touch chest, drive through chest not shoulders*
@@ -52,7 +53,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 - [ ] Core: Hanging Leg Raise 3x10 · Russian Twist (plate) 3x12/side
 - [ ] Cardio — 8 min
 
-## Tuesday · Lower (Squat) — ~46 min
+## Tuesday · Lower A (Squat) — ~46 min
 
 - [ ] A: **Back Squat** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps *(last: 135x30, 8/6)*
     - *Bar on upper traps, brace core, sit deep, drive through whole foot*
@@ -65,32 +66,27 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 - [ ] Core: V-Ups 3x10 · Weighted Plank 3x30s
 - [ ] Cardio — 8 min
 
-## Wednesday · Push (OHP) — ~45 min
+## Wednesday · Core + Cardio — ~40 min
 
-- [ ] A: **Standing Overhead Press** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps
-    - *Glutes tight, bar path close to face, lock out overhead*
-- [ ] B1: Incline Dumbbell Press — 3x10 · *full stretch at bottom, press up and back*
-- [ ] B2: Deficit Push-Up — 3x12 (60s) · *chest below hand level, full lockout*
-- [ ] C1: Cable Y-Raise — 3x12 · *light, up and out into a Y*
-- [ ] C2: Overhead Cable Triceps Extension — 3x12 (45s) · *elbows by ears, long-head stretch*
-- [ ] D: Diamond Push-Up — 3x12 (45s) · *elbows tight to ribs*
-- [ ] Core: Ab Wheel Rollout 3x10 · High-to-Low Cable Chop 3x10/side
-- [ ] Cardio — 8 min
+- Warmup (5 min): Scap Push-Up, Frog Pumps, Thread the Needle, Plank w/ Leg Lift — one set each
+- Core circuit, 3 rounds (15s/60s rests): Weighted Dead Bug 10/side · Side Plank 30s/side · Mountain Climbers 20/side · Plank Shoulder Taps 12/side
+- Cardio — 20 min steady or 10x (1 min hard / 1 min easy)
 
-## Thursday · Pull (Chin-Up) — ~48 min
+## Thursday · Upper B (Chin-Up) — ~48 min
 
 - [ ] A: **Weighted Chin-Up** (MAIN) — 4x6-8 (75s) · **Top set:** +— lbs x — reps
     - *Palms facing you, full hang, pull chest to bar*
-- [ ] B1: Barbell Bent-Over Row — 3x10 · *hinge ~45°, pull to lower ribs*
+- [ ] B1: Standing Overhead Press — 3x8-10 · *glutes tight, bar close to face, lock out*
 - [ ] B2: Lat Pulldown (neutral grip) — 3x12 (60s) · *chest up, elbows down and back*
-- [ ] C1: Bent-Over Rear-Delt Fly (DB) — 3x15 · *lead with pinkies*
-- [ ] C2: Dumbbell Shrug — 3x12-15 (45s) · *straight up, 1s squeeze* [trap slot]
-- [ ] D1: Incline Dumbbell Curl — 3x10 · *arms hang back, full stretch*
-- [ ] D2: Hammer Curl — 3x12 (45s) · *neutral grip, elbows pinned*
+- [ ] C: Barbell Bent-Over Row — 3x10 (60s) · *hinge ~45°, pull to lower ribs*
+- [ ] D1: Bent-Over Rear-Delt Fly (DB) — 3x15 · *lead with pinkies*
+- [ ] D2: Dumbbell Shrug — 3x12-15 (45s) · *straight up, 1s squeeze* [trap slot]
+- [ ] E1: Incline Dumbbell Curl — 3x10 · *arms hang back, full stretch*
+- [ ] E2: Overhead Cable Triceps Extension — 3x12 (45s) · *elbows by ears, long-head stretch*
 - [ ] Core: L-Sit Hold 3x15-20s · Renegade Row 3x8/side
 - [ ] Cardio — 8 min
 
-## Friday · Legs (RDL) — ~46 min
+## Friday · Lower B (RDL) — ~46 min
 
 - [ ] A: **Barbell Romanian Deadlift** (MAIN) — 4x8 (90s) · **Top set:** — lbs x — reps
     - *Bar slides down thighs, soft knees, hinge until hamstrings pull hard*
@@ -102,7 +98,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 - [ ] Core: Cable Woodchop 3x10/side · Suitcase Carry 2x40s/side
 - [ ] Cardio — 8 min
 
-## Saturday · Core + Cardio (optional 2nd on Sunday) — ~40 min
+## Saturday · Core + Cardio (optional 2nd session) — ~40 min
 
 - Warmup (5 min): Scap Push-Up, Frog Pumps, Thread the Needle, Plank w/ Leg Lift — one set each
 - Core circuit, 3 rounds (15s/60s rests):
@@ -127,7 +123,7 @@ Accessories and core rotate every 2 weeks as before; main lifts never rotate.
 
 ## Strength Tracker
 
-*Top sets on the 5 main lifts. Goal: beat the previous entry. Carries over
+*Top sets on the 4 main lifts. Goal: beat the previous entry. Carries over
 across refreshes; entries are never wiped.*
 
 *Weight conventions: dumbbell lifts = per-dumbbell weight (55 = a pair of
