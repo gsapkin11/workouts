@@ -30,11 +30,11 @@ hip thrust also live in the program as accessories.
 
 ## WARMUP (10 min — before every lifting day)
 
-- [ ] Scap Push-Up (Push-Up Plus) — 10 · *pinch blades, push floor away* (chest, shoulders, serratus)
+- [ ] Band Pull-Apart — 15 · *arms straight, pull to chest, pinch blades* (rear delts, upper back)
 - [ ] Squat to Stand with Reach — 8 · *grab toes, deep squat, reach up* (hamstrings, quads, shoulders)
-- [ ] Spiderman Lunge with T-Rotation — 5/side · *hand inside foot, rotate up* (hip flexors, t-spine, glutes)
-- [ ] Cossack Squat — 6/side · *shift over one leg* (adductors, quads, glutes)
-- [ ] Thread the Needle — 8/side · *arm under and through* (t-spine, obliques)
+- [ ] World's Greatest Stretch — 5/side · *lunge, elbow down, rotate up* (hip flexors, t-spine, hamstrings)
+- [ ] Lateral Lunge — 6/side · *big side step, sit into hip* (adductors, glutes, quads)
+- [ ] Open Book — 8/side · *side-lying, rotate top arm open* (t-spine, obliques)
 - [ ] Frog Pumps — 12 · *soles together, hips up* (glutes)
 - [ ] High Knee March with Arm Swings — 20 steps · *tall, knee to hip height* (hip flexors, calves)
 - [ ] Plank with Alternating Leg Lift — 8/side · *no hip rotation* (deep core, glutes)
@@ -43,7 +43,7 @@ hip thrust also live in the program as accessories.
 
 ## Monday · Upper A (Bench) — ~45 min
 
-- [ ] A: **Barbell Bench Press** (HEAVY PRESS slot) — 4x8 (90s) · **Top set:** — lbs x — reps
+- [ ] A: **Barbell Bench Press** (HEAVY PRESS slot) — 4x8 (90s) · **Top set:** — lbs x — reps *(last: 155x4)*
     - *Retract shoulder blades, feet flat, touch chest, drive through chest not shoulders*
 - [ ] B1: Chest-Supported Dumbbell Row — 3x10 · *pull to hips, squeeze blades*
 - [ ] B2: Machine Fly (Pec Deck) — 3x12 (60s) · *squeeze pads together, slow stretch back*
@@ -55,7 +55,7 @@ hip thrust also live in the program as accessories.
 
 ## Tuesday · Lower A (Squat) — ~46 min
 
-- [ ] A: **Back Squat** (HEAVY SQUAT slot) — 4x8 (90s) · **Top set:** — lbs x — reps *(last: 135x30, 8/6)*
+- [ ] A: **Back Squat** (HEAVY SQUAT slot) — 4x8 (90s) · **Top set:** — lbs x — reps *(last: 135x8)*
     - *Bar on upper traps, brace core, sit deep, drive through whole foot*
 - [ ] B1: Reverse Lunge (DB) — 3x10/leg · *drop rear knee, drive through front heel*
 - [ ] B2: Leg Press — 3x12 (60s) · *deep controlled reps, don't lock out hard*
@@ -135,6 +135,8 @@ weight.*
 |------|----------|-------------------------|-------|
 | 2026-08-06 | Back Squat (user-swapped from Front Squat) | 135 lbs x 30 reps | Pre-block; likely 30 total reps over 4 sets |
 | 2026-08-22 | Flat Dumbbell Bench Press | 55 lbs x 14 reps (per DB) | Pre-block; different lift from barbell bench |
+| 2026-09-14 | Barbell Bench Press | 155 lbs x 4 reps | Week 1 baseline — first barbell bench log (total bar weight) |
+| 2026-09-15 | Back Squat | 135 lbs x 8 reps | Week 1 baseline — first clean single-set squat log |
 
 ---
 

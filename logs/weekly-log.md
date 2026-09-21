@@ -156,6 +156,8 @@ now 2-for-2 weeks each).
 |------|----------|---------|-------|
 | 2026-08-06 | Back Squat (user-swapped from Front Squat) | 135 lbs x 30 reps | First entry; likely 30 total reps over 4 sets |
 | 2026-08-22 | Flat Dumbbell Bench Press | 55 lbs x 14 reps (per DB) | 14 reps at 4x6-8 target — move up to ~60s |
+| 2026-09-14 | Barbell Bench Press | 155 lbs x 4 reps | Week 1 baseline (total bar weight) |
+| 2026-09-15 | Back Squat | 135 lbs x 8 reps | Week 1 baseline — first clean single-set log |
 
 ---
 
@@ -177,3 +179,43 @@ thrust) and first week with Day 5 in the split (49 total items now).*
 completion streak); everything after it slipped this week. New barbell
 bench got its first session (no top set logged). Note: Grant renamed
 the page header to "5-DAY WORKOUT SPLIT" — mirrored in WORKOUT.md.
+
+---
+
+## Week ending 2026-09-20 — WEEK 1 OF 12 · Baseline phase
+
+**Scoreboard: Week 1 of 12 · Baseline · Lifts 2/4 — MISSED (below the
+3-lift save) · Core/Cardio 1/1-2 ✓ · Streak: n/a (block opener)**
+
+*First week of the 12-week block and the new 4-day split with heavy
+slots. First week of weekly warmup rotation (rotated at this recap).*
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Mon · Upper A | EVERYTHING — bench + all accessories + core + cardio | — | 11/11 (100%) 🏆 |
+| Tue · Lower A | Squat + all accessories + core | Cardio finisher | 10/11 (91%) |
+| Wed · Core+Cardio | Full circuit + 20 min cardio | — | 5/5 (100%) — first-ever core/cardio day completed |
+| Thu · Upper B | — | Everything | 0/12 |
+| Fri · Lower B | — | Everything | 0/10 |
+| Sat · Core+Cardio (opt) | — | — | not done (optional) |
+
+**Overall:** 26/49 items (53%). Two lifting sessions + one core/cardio
+session. The front half of the week was the best three-day run ever
+logged (100% / 91% / 100%); Thu + Fri were both zero.
+
+**Top sets logged (2 of 4 heavy-slot baselines in):**
+- Barbell Bench Press **155 x 4** (Mon) — first barbell bench entry.
+  4 reps at a 4x8 scheme reads like the weight is a touch heavy for
+  baseline week; 145-150 would land in the 8-rep zone with 2 in the tank.
+- Back Squat **135 x 8** (Tue) — first clean single-set squat log,
+  right on the 4x8 prescription.
+
+**Still missing baselines (weeks 1-2 goal = all four):** PULL (Weighted
+Chin-Up, Thu) and HINGE (Barbell RDL, Fri) — exactly the two sessions
+that were missed. Week 2 priority: Friday's hinge day cannot slip again
+(legs-never-slip-twice rule: Lower B was the missed lower day).
+
+**Patterns:** Back half of the split missed again (Thu now missed in 3
+of the last 4 logged weeks; Fri in 5 of 7). Cardio done Mon + Wed but
+skipped Tue. Wednesday's dedicated core/cardio day completed on its
+first try — the split change is doing its job on that front.
