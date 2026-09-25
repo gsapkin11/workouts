@@ -83,7 +83,7 @@ hip thrust also live in the program as accessories.
 - [ ] D2: Dumbbell Shrug — 3x12-15 (45s) · *straight up, 1s squeeze* [trap slot]
 - [ ] E1: Incline Dumbbell Press — 3x10 · *30-45° bench, full stretch, press up and back*
 - [ ] E2: Incline Dumbbell Curl — 3x10 (45s) · *arms hang back, full stretch, no swinging*
-- [ ] Core: L-Sit Hold 3x15-20s · Renegade Row 3x8/side
+- [ ] Core: Cable Crunch 3x12 · Renegade Row 3x8/side
 - [ ] Cardio — 8 min
 
 ## Friday · Lower B (RDL) — ~46 min
