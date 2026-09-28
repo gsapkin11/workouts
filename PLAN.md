@@ -50,9 +50,10 @@ with (last:) memory. OHP and hip thrust also appear as accessories.
 - Baselines missing after week 2 = the Sunday recap flags which lifts
   still need a first logged set.
 
-## Nutrition (phase-in — decision pending)
+## Nutrition (LOCKED 2026-09-27: guidelines-only, no tracking)
 
-Weeks 1-2, guidelines only:
+Decided at the Sep 27 recap and locked for the remaining 10 weeks —
+guidelines only, no daily protein-number tracking:
 1. **Protein anchor every meal** — palm-to-two-palms of meat/fish/eggs/
    Greek yogurt first, everything else second.
 2. **Protein target ~0.8-1g per lb bodyweight daily** — roughly: 3 meals
@@ -60,9 +61,8 @@ Weeks 1-2, guidelines only:
 3. **No liquid calories on weekdays**; alcohol ≤2 nights/week.
 4. Everything else: eat normally. No deficit — recomp runs at maintenance.
 
-**Decision point at the Sep 27 recap:** keep guidelines-only, or add
-protein-number tracking (one number a day, texted to Claude). Whichever,
-it's locked for the remaining 10 weeks.
+**Decision (made 2026-09-27):** guidelines-only. Locked — the recaps
+grade lifting and core/cardio, not food.
 
 ## Recovery
 
