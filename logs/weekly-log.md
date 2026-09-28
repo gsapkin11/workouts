@@ -158,6 +158,9 @@ now 2-for-2 weeks each).
 | 2026-08-22 | Flat Dumbbell Bench Press | 55 lbs x 14 reps (per DB) | 14 reps at 4x6-8 target — move up to ~60s |
 | 2026-09-14 | Barbell Bench Press | 155 lbs x 4 reps | Week 1 baseline (total bar weight) |
 | 2026-09-15 | Back Squat | 135 lbs x 8 reps | Week 1 baseline — first clean single-set log |
+| 2026-09-21 | Barbell Bench Press | 155 lbs x ? reps | Week 2 — weight logged, reps left blank |
+| 2026-09-24 | Chin-Up (bodyweight) | bodyweight x 5 reps | Week 2 baseline — no added weight |
+| 2026-09-24 | Barbell RDL | 115 lbs x 8 reps | Week 2 baseline |
 
 ---
 
@@ -219,3 +222,40 @@ that were missed. Week 2 priority: Friday's hinge day cannot slip again
 of the last 4 logged weeks; Fri in 5 of 7). Cardio done Mon + Wed but
 skipped Tue. Wednesday's dedicated core/cardio day completed on its
 first try — the split change is doing its job on that front.
+\n
+---
+
+## Week ending 2026-09-27 — WEEK 2 OF 12 · Baseline phase
+
+**Scoreboard: Week 2 of 12 · Baseline · Lifts 3/4 — SAVED · Core/Cardio
+0/1-2 · streak: first 3-lift week of the block**
+
+*Harvested Sunday morning by the biweekly refresh firing (which was
+interrupted before rotating; the rotation was completed Sunday night
+together with this recap — pages were then reset for the Build phase).*
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Mon · Upper A | Bench (155 x ? — reps not filled), row, lateral raise, preacher curl, pushdown, both core | Machine Fly, cardio | 9/11 (82%) |
+| Tue · Lower A | — | Everything | 0/11 |
+| Wed · Core+Cardio | — | Everything | 0/5 |
+| Thu · Upper B | Chin-Up (bodyweight x 5!), OHP, pulldown, bent-over row, rear-delt fly, shrug, incline press, incline curl | Cable Crunch, Renegade Row, cardio | 9/12 (75%) |
+| Fri · Lower B | RDL (115x8!), hip thrust, good morning, hack squat, calf raise, all core, cardio | Broad Jump | 9/10 (90%) |
+| Sat · Core+Cardio (opt) | — | — | not done (optional) |
+
+**Overall:** 27/49 items (55%). THREE lifting sessions — first
+non-missed week of the block, and the first-ever completed Friday
+after a missed week (legs-never-slip-twice rule held: Lower B was
+week 1's missed lower day and it got done).
+
+**Top sets:** all four heavy slots now have week 1-2 baseline data:
+- PRESS: Barbell Bench 155x4 (9/14); wk 2 logged 155 x ? (reps blank)
+- SQUAT: Back Squat 135x8 (9/15)
+- PULL: Chin-Up bodyweight x 5 (9/24) — first chin-up top set ever logged
+- HINGE: Barbell RDL 115x8 (9/24)
+
+**Patterns:** Tuesday (squat day) was the miss this week — next week it
+cannot slip again. Core/Cardio day 1→0; cardio finishers 1/3 sessions.
+Chin-up completed twice in a row now (previously the chronic skip).
+Broad Jump skipped in both its weeks — dropped at this rotation (KB
+Swing takes the power slot).
