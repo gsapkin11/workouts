@@ -31,20 +31,20 @@ Thursday accessory (3 x max reps).
 
 ## WARMUP (10 min — before every lifting day; rotates WEEKLY)
 
-- [ ] Wall Slide — 10 · *back flat on wall, slide arms overhead* (shoulders, upper back)
-- [ ] Inchworm Walkout — 6 · *walk hands to plank and back* (hamstrings, shoulders, core)
-- [ ] World's Greatest Stretch — 5/side · *lunge, elbow down, rotate up* (hip flexors, t-spine, hamstrings)
-- [ ] 90/90 Hip Switch — 6/side · *rotate knees side to side, chest tall* (hips, adductors, glutes)
-- [ ] Glute Bridge March — 8/side · *hips high, march knees up* (glutes, deep core)
-- [ ] Deep Squat Pry — 30s · *bottom of squat, elbows push knees out* (quads, adductors, ankles)
-- [ ] High Knee March with Arm Swings — 20 steps · *tall, knee to hip height* (hip flexors, calves)
-- [ ] Bird Dog — 8/side · *opposite arm and leg, pause, no tilt* (deep core, glutes, t-spine)
+- [ ] Scap Push-Up (Push-Up Plus) — 10 · *pinch blades, push floor away* (chest, shoulders, serratus)
+- [ ] Leg Swings (front-to-back) — 10/leg · *tall and loose, bigger each rep* (hamstrings, hip flexors)
+- [ ] Spiderman Lunge with T-Rotation — 5/side · *hand inside foot, rotate up* (hip flexors, t-spine, glutes)
+- [ ] Cossack Squat — 6/side · *shift over one leg* (adductors, quads, glutes)
+- [ ] Cat-Cow — 8 · *arch and round slowly with the breath* (t-spine, core)
+- [ ] Single-Leg Glute Bridge — 8/side · *hips level, squeeze at top* (glutes, hamstrings)
+- [ ] Jumping Jacks — 30s · *light and springy* (calves, shoulders, heart rate)
+- [ ] Dead Bug — 8/side · *low back glued to floor, slow reaches* (deep core)
 
 ---
 
 ## Monday · Upper A (Incline Press) — ~46 min
 
-- [ ] A: **Incline Barbell Bench Press** (HEAVY PRESS slot) — 4x6-8 (90s) · **Top set:** — lbs x — reps *(flat bench was 155x4 on 9/14 — incline sets its own baseline, start ~125-135)*
+- [ ] A: **Incline Barbell Bench Press** (HEAVY PRESS slot) — 4x6-8 (90s) · **Top set:** — lbs x — reps *(last: 115x7, 9/28)*
     - *Bench at 30°, bar to upper chest, touch and drive up*
 - [ ] B1: Flat Dumbbell Bench Press — 3x10 · *full stretch, no clanging* *(last: 55s x 14 on 8/22 — move to 60s)*
 - [ ] B2: Single-Arm Dumbbell Row — 3x10/side (60s) · *knee on bench, pull to hip*
@@ -56,7 +56,7 @@ Thursday accessory (3 x max reps).
 
 ## Tuesday · Lower A (Box Squat) — ~46 min
 
-- [ ] A: **Box Squat** (HEAVY SQUAT slot) — 4x6-8 (90s) · **Top set:** — lbs x — reps *(back squat was 135x8 on 9/15 — box sets its own baseline, start ~135)*
+- [ ] A: **Box Squat** (HEAVY SQUAT slot) — 4x6-8 (90s) · **Top set:** — lbs x — reps *(last: 155x6, 9/30)*
     - *Box at parallel, sit back, light touch, no bouncing, drive up hard*
 - [ ] B1: Bulgarian Split Squat (DB) — 3x8/leg · *rear foot on bench, drop straight down*
 - [ ] B2: Leg Extension — 3x12 (60s) · *pause at top, control down*
@@ -135,6 +135,8 @@ weight.*
 | 2026-09-21 | Barbell Bench Press | 155 lbs x ? reps | Week 2 — weight logged, reps left blank |
 | 2026-09-24 | Chin-Up (bodyweight) | bodyweight x 5 reps | Week 2 baseline — no added weight |
 | 2026-09-24 | Barbell RDL | 115 lbs x 8 reps | Week 2 baseline |
+| 2026-09-28 | Incline Barbell Bench Press | 115 lbs x 7 reps | Week 3 — first incline baseline |
+| 2026-09-30 | Box Squat | 155 lbs x 6 reps | Week 3 — first box squat baseline; +20 lbs over back squat |
 
 ---
 

@@ -161,6 +161,8 @@ now 2-for-2 weeks each).
 | 2026-09-21 | Barbell Bench Press | 155 lbs x ? reps | Week 2 — weight logged, reps left blank |
 | 2026-09-24 | Chin-Up (bodyweight) | bodyweight x 5 reps | Week 2 baseline — no added weight |
 | 2026-09-24 | Barbell RDL | 115 lbs x 8 reps | Week 2 baseline |
+| 2026-09-28 | Incline Barbell Bench Press | 115 lbs x 7 reps | Week 3 — first incline baseline |
+| 2026-09-30 | Box Squat | 155 lbs x 6 reps | Week 3 — first box squat baseline |
 
 ---
 
@@ -259,3 +261,37 @@ cannot slip again. Core/Cardio day 1→0; cardio finishers 1/3 sessions.
 Chin-up completed twice in a row now (previously the chronic skip).
 Broad Jump skipped in both its weeks — dropped at this rotation (KB
 Swing takes the power slot).
+
+---
+
+## Week ending 2026-10-04 — WEEK 3 OF 12 · Build phase
+
+**Scoreboard: Week 3 of 12 · Build (4x6-8) · Lifts 2/4 — MISSED ·
+Core/Cardio 0/1-2 · streak: broken (after one 3-lift week)**
+
+*First week on the Build program (incline bench, box squat, heavy
+pulldown, trap bar DL).*
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Mon · Upper A | EVERYTHING — incline bench debut + all accessories + core + cardio | — | 9/9 (100%) 🏆 |
+| Tue · Lower A | Box squat debut, Bulgarian split squat, back extension, both machines, calf raise, knee raise | Leg Extension, Side Plank Reach-Through, cardio | 8/11 (73%) |
+| Wed · Core+Cardio | — | Everything | 0/5 |
+| Thu · Upper B | — | Everything | 0/12 |
+| Fri · Lower B | — | Everything | 0/10 |
+| Sat · Core+Cardio (opt) | — | — | not done (optional) |
+
+**Overall:** 17/47 items (36%). Two lifting sessions, both front-half.
+Monday is now a 3-week 80%+ streak (and 2 perfect sessions in 4 weeks).
+
+**Top sets (both new variations baselined immediately):**
+- Incline Barbell Bench **115x7** (9/28) — one rep from the add-weight
+  trigger
+- Box Squat **155x6** (9/30) — opened 20 lbs ABOVE the back-squat
+  baseline
+
+**Patterns:** Thu+Fri both zero — the back-half fade is back (each
+now missed 2 of the block's 3 weeks).
+Heavy Lat Pulldown and Trap Bar Deadlift still have no baseline —
+they debut this coming week. Core/Cardio day: 1 done in 3 weeks.
+Cardio finishers only on Monday.
