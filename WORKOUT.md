@@ -29,7 +29,7 @@ Thursday accessory (3 x max reps).
 
 ---
 
-## WARMUP (10 min — before every lifting day; rotates WEEKLY)
+## WARMUP (10 min — before every lifting day; rotates WEEKLY, golf-mobility emphasis)
 
 - [ ] Scap Push-Up (Push-Up Plus) — 10 · *pinch blades, push floor away* (chest, shoulders, serratus)
 - [ ] Leg Swings (front-to-back) — 10/leg · *tall and loose, bigger each rep* (hamstrings, hip flexors)
@@ -37,7 +37,7 @@ Thursday accessory (3 x max reps).
 - [ ] Cossack Squat — 6/side · *shift over one leg* (adductors, quads, glutes)
 - [ ] Cat-Cow — 8 · *arch and round slowly with the breath* (t-spine, core)
 - [ ] Single-Leg Glute Bridge — 8/side · *hips level, squeeze at top* (glutes, hamstrings)
-- [ ] Jumping Jacks — 30s · *light and springy* (calves, shoulders, heart rate)
+- [ ] Golf Swing Torso Rotation — 8/side · *golf stance, arms crossed, full backswing + follow-through* (t-spine rotation, obliques, hips — golf)
 - [ ] Dead Bug — 8/side · *low back glued to floor, slow reaches* (deep core)
 
 ---
