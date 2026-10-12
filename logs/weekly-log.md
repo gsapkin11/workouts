@@ -295,3 +295,34 @@ now missed 2 of the block's 3 weeks).
 Heavy Lat Pulldown and Trap Bar Deadlift still have no baseline —
 they debut this coming week. Core/Cardio day: 1 done in 3 weeks.
 Cardio finishers only on Monday.
+
+---
+
+## Week ending 2026-10-11 — WEEK 4 OF 12 · Build phase
+
+**Scoreboard: Week 4 of 12 · Build (4x6-8) · Lifts 2/4 — MISSED ·
+Core/Cardio 0/1-2 · streak: none**
+
+*Pre-refresh snapshot harvested Sunday morning by the biweekly refresh
+(pages were then rotated to the weeks 5-6 program and reset — empty
+checkboxes after Sunday 8am are by design). The refresh run was
+interrupted before the repo write; completed at the Sunday-night recap.*
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Mon · Upper A | Incline bench + all accessories + decline sit-up | Pallof Press, cardio | 7/9 (78%) |
+| Tue · Lower A | — | Everything | 0/11 |
+| Wed · Core+Cardio | — | Everything | 0/5 |
+| Thu · Upper B | — | Everything | 0/12 |
+| Fri · Lower B | Trap Bar DL (debut), KB Swing, Pull-Through, Seated Calf, cardio | Walking Lunge, Farmer Carry, Side Plank Hip Lift | 5/10 (50%) |
+| Sat · Core+Cardio (opt) | — | — | not done (optional) |
+
+**Overall:** 12/47 items (26%). Two lifting sessions (Mon, Fri).
+No top sets filled this week — incline bench and trap bar DL were both
+done but the number lines were left blank, so no tracker rows.
+
+**Patterns:** Tuesday missed this week (the lower-day miss → next week
+Tuesday cannot slip). Thursday missed 3 of the block's 4 weeks. Friday
+done after its week-3 miss — the legs rule held. Monday streak alive:
+4 straight weeks at 78%+. Core/Cardio day done 1 of 4 weeks. 4-week
+lift trend: 2 → 3 → 2 → 2.
