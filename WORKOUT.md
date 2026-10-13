@@ -36,7 +36,7 @@ Thursday accessory (3 x max reps, last: 5 on 9/24).
 - [ ] Half-Kneeling T-Spine Rotation — 6/side · *hand behind head, rotate chest open* (t-spine, core — golf)
 - [ ] Standing Hip Circles — 8/direction · *big slow hula-hoop circles* (hips, pelvis — golf)
 - [ ] Lateral Lunge — 6/side · *big side step, sit into hip* (adductors, glutes, quads)
-- [ ] Frog Pumps — 12 · *soles together, hips up* (glutes)
+- [ ] Glute Bridge (2s hold) — 10 · *hips up, hold 2s, squeeze hard* (glutes)
 - [ ] Plank with Alternating Leg Lift — 8/side · *no hip rotation* (deep core, glutes)
 
 ---
@@ -68,7 +68,7 @@ Thursday accessory (3 x max reps, last: 5 on 9/24).
 
 ## Wednesday · Core + Cardio — ~40 min
 
-- Warmup (5 min): Band Pull-Apart, Frog Pumps, Open Book, Plank w/ Leg Lift — one set each
+- Warmup (5 min): Band Pull-Apart, Glute Bridge, Open Book, Plank w/ Leg Lift — one set each
 - Core circuit, 3 rounds (15s/60s rests): Plank Up-Down 8/side · Flutter Kicks 20/side · Russian Twist (plate) 12/side · Glute Bridge March 10/side
 - Cardio — 20 min steady or 10x (1 min hard / 1 min easy)
 
