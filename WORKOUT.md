@@ -30,20 +30,20 @@ Thursday accessory (3 x max reps, last: 5 on 9/24).
 
 ## WARMUP (10 min — before every lifting day; rotates WEEKLY, golf-mobility emphasis)
 
-- [ ] Band Pull-Apart — 15 · *arms straight, pull to chest, pinch blades* (rear delts, upper back)
-- [ ] Squat to Stand with Reach — 8 · *grab toes, deep squat, reach up* (hamstrings, quads, shoulders)
-- [ ] Open Book — 8/side · *side-lying, rotate top arm open* (t-spine, obliques — golf)
-- [ ] Half-Kneeling T-Spine Rotation — 6/side · *hand behind head, rotate chest open* (t-spine, core — golf)
-- [ ] Standing Hip Circles — 8/direction · *big slow hula-hoop circles* (hips, pelvis — golf)
-- [ ] Lateral Lunge — 6/side · *big side step, sit into hip* (adductors, glutes, quads)
-- [ ] Glute Bridge (2s hold) — 10 · *hips up, hold 2s, squeeze hard* (glutes)
-- [ ] Plank with Alternating Leg Lift — 8/side · *no hip rotation* (deep core, glutes)
+- [ ] Wall Angel — 10 · *back flat on wall, slide bent arms up/down* (shoulders, upper back)
+- [ ] Inchworm Walkout — 6 · *walk hands to plank and back* (hamstrings, shoulders, core)
+- [ ] Thread the Needle — 8/side · *arm under and through* (t-spine, obliques — golf)
+- [ ] 90/90 Hip Switch — 6/side · *rotate knees side to side, chest tall* (hips, adductors — golf)
+- [ ] World's Greatest Stretch — 5/side · *lunge, elbow down, rotate up* (hip flexors, t-spine — golf)
+- [ ] Walking Lunge with Twist — 6/side · *rotate over the front leg* (quads, hip flexors, core)
+- [ ] Glute Bridge March — 8/side · *hips high, march knees up* (glutes, deep core)
+- [ ] Butt Kicks — 30s · *light and quick, heels to glutes* (quads, calves, heart rate)
 
 ---
 
 ## Monday · Upper A (DB Bench) — ~46 min
 
-- [ ] A: **Flat Dumbbell Bench Press** (HEAVY PRESS slot) — 4x6-8 (90s) · **Top set:** — lbs x — reps *(last: 55s x 14 on 8/22 — start at 60s; weight = per DB)*
+- [ ] A: **Flat Dumbbell Bench Press** (HEAVY PRESS slot) — 4x6-8 (90s) · **Top set:** — lbs x — reps *(last: 60s x 6, 10/12 — hit 8 and go to 65s; per DB)*
     - *Deep stretch at the bottom, press up and slightly in*
 - [ ] B1: Cable Fly (low-to-high) — 3x12 · *sweep up and together, squeeze*
 - [ ] B2: Inverted Row — 3x10 (60s) · *body straight, chest to bar*
@@ -140,6 +140,7 @@ weight.*
 | 2026-09-24 | Barbell RDL | 115 lbs x 8 reps | Week 2 baseline |
 | 2026-09-28 | Incline Barbell Bench Press | 115 lbs x 7 reps | Week 3 — first incline baseline |
 | 2026-09-30 | Box Squat | 155 lbs x 6 reps | Week 3 — first box squat baseline; +20 lbs over back squat |
+| 2026-10-12 | Flat Dumbbell Bench Press | 60 lbs x 6 reps (per DB) | Week 5 — +5 lbs/DB over 8/22; hit 8 to move to 65s |
 
 ---
 

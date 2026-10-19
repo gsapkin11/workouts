@@ -163,6 +163,7 @@ now 2-for-2 weeks each).
 | 2026-09-24 | Barbell RDL | 115 lbs x 8 reps | Week 2 baseline |
 | 2026-09-28 | Incline Barbell Bench Press | 115 lbs x 7 reps | Week 3 — first incline baseline |
 | 2026-09-30 | Box Squat | 155 lbs x 6 reps | Week 3 — first box squat baseline |
+| 2026-10-12 | Flat Dumbbell Bench Press | 60 lbs x 6 reps (per DB) | Week 5 — +5 lbs/DB over 8/22 |
 
 ---
 
@@ -326,3 +327,36 @@ Tuesday cannot slip). Thursday missed 3 of the block's 4 weeks. Friday
 done after its week-3 miss — the legs rule held. Monday streak alive:
 4 straight weeks at 78%+. Core/Cardio day done 1 of 4 weeks. 4-week
 lift trend: 2 → 3 → 2 → 2.
+
+---
+
+## Week ending 2026-10-18 — WEEK 5 OF 12 · Build phase
+
+**Scoreboard: Week 5 of 12 · Build (4x6-8) · Lifts 1/4 — MISSED ·
+Core/Cardio 1/1-2 ✓ · streak: none**
+
+*First week on the weeks 5-6 program (DB bench, pause squat,
+chest-supported row, heavy hip thrust).*
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Mon · Upper A | DB Bench (60x6!), cable fly, inverted row, EZ curl, OH triceps ext, stir the pot | Machine Lateral Raise, Ab Wheel, cardio | 6/9 (67%) |
+| Tue · Lower A | — | Everything | 0/11 |
+| Wed · Core+Cardio | EVERYTHING — full circuit + 20 min cardio | — | 5/5 (100%) |
+| Thu · Upper B | — | Everything | 0/12 |
+| Fri · Lower B | — | Everything | 0/10 |
+| Sat · Core+Cardio (opt) | — | — | not done (optional) |
+
+**Overall:** 11/47 items (23%). One lifting session — lightest lifting
+week of the block (trend: 2 → 3 → 2 → 2 → 1). But core/cardio hit its
+target for the first time since week 1.
+
+**Top set:** Flat DB Bench **60 x 6** (per DB) — up 5 lbs/DB from the
+8/22 entry (55x14). First press-slot progression data point: hit 8 at
+60s and move to 65s.
+
+**Patterns:** BOTH lower days missed — the legs-never-slip-twice rule
+is now formally broken (Tue missed 2 of last 2, zero squats since
+9/30). Thursday missed 4 of 5 block weeks. Monday streak intact
+(5-for-5 weeks, though completion dipped to 67%). Pause squat,
+chest-supported row, and heavy hip thrust all still unbaselined.
