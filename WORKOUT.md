@@ -32,6 +32,7 @@ BW x5, RDL 115x8. Bodyweight-plus pulls run 4x6-8 all block.
 backswing extension work; do FIRST, gentle range, never into sharp pain):**
 - [ ] Foam Roller T-Spine Extension — 8 slow reps · *roller across mid-back, hands behind head, extend over it*
 - [ ] Cat-Cow (slow) — 10 · *segment the spine, extra pause in the arch*
+- [ ] Peanut/Tennis-Ball T-Spine Press (TPI drill) — 30s at 3-4 spots · *taped tennis balls under mid-back, gentle crunch-and-extend, move up*
 - [ ] Prayer Stretch on Bench — 30s x 2 · *elbows on bench, chest drops through*
 
 Then the weekly rotation (~10 min):
