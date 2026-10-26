@@ -164,6 +164,9 @@ now 2-for-2 weeks each).
 | 2026-09-28 | Incline Barbell Bench Press | 115 lbs x 7 reps | Week 3 — first incline baseline |
 | 2026-09-30 | Box Squat | 155 lbs x 6 reps | Week 3 — first box squat baseline |
 | 2026-10-12 | Flat Dumbbell Bench Press | 60 lbs x 6 reps (per DB) | Week 5 — +5 lbs/DB over 8/22 |
+| 2026-10-19 | Chest-Supported Row | 160 lbs x 6 reps | Week 6 — first row-slot baseline |
+| 2026-10-21 | Pause Back Squat | 135 lbs x 6 reps | Week 6 — first pause squat baseline |
+| 2026-10-22 | Flat Dumbbell Bench Press | 60 lbs x 6 reps (per DB) | Week 6 — repeat of 60x6 |
 
 ---
 
@@ -360,3 +363,38 @@ is now formally broken (Tue missed 2 of last 2, zero squats since
 9/30). Thursday missed 4 of 5 block weeks. Monday streak intact
 (5-for-5 weeks, though completion dipped to 67%). Pause squat,
 chest-supported row, and heavy hip thrust all still unbaselined.
+
+---
+
+## Week ending 2026-10-25 — WEEK 6 OF 12 · Build phase
+
+**Scoreboard: Week 6 of 12 · Build (4x6-8) · Lifts 3/4 — SAVED ·
+Core/Cardio 1/1-2 (cardio only) · streak: best week since week 2**
+
+*Pre-refresh snapshot harvested Sunday by the biweekly refresh (pages
+then rotated to the weeks 7-8 PUSH program and reset). Notable: Grant
+ran the days out of order — Upper B on Mon 10/19, Lower A on Tue
+10/20-21, Upper A on Thu 10/22 — and it worked.*
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Mon · Upper A (done 10/22) | DB Bench 60x6, cable fly, lateral raise, EZ curl, OH triceps, cardio | Inverted Row, Ab Wheel, Stir the Pot | 7/9 (78%) |
+| Tue · Lower A (done ~10/21) | Pause Squat 135x6!, glute kickback, lateral walk, calf press, dead bug, V-ups, cardio | Step-Up, Goblet Squat, Back Extension | 8/11 (73%) |
+| Wed · Core+Cardio | 20-min cardio | Core circuit | 1/5 (20%) |
+| Thu · Upper B (done 10/19) | Chest-Supported Row 160x6!, Arnold press, straight-arm pulldown, chin-ups, face pull, weighted push-up, hammer curl, suitcase carry, cardio | Trap Bar Shrug, Bird Dog Row | 9/12 (75%) |
+| Fri · Lower B | — | Everything | 0/10 |
+| Sat · Core+Cardio (opt) | — | — | not done (optional) |
+
+**Overall:** 25/47 items (53%). THREE lifting sessions — best week
+since week 2, and cardio finishers on all three.
+
+**Top sets (every session logged a number — first time ever):**
+- Chest-Supported Row **160x6** (10/19) — new slot baseline
+- Pause Back Squat **135x6** (10/21) — new variation baseline
+- Flat DB Bench **60x6** (10/22) — same as last week; 3rd session at
+  60x6 would be a stall flag
+
+**Patterns:** Friday (hinge day) was the miss — heavy hip thrust left
+the slot without ever being baselined. Legs rule: Friday is next week's
+#1. 45° Back Extension skipped for the first time in the block. Wed
+circuit skipped but cardio done.
