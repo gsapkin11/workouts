@@ -26,7 +26,15 @@ BW x5, RDL 115x8. Bodyweight-plus pulls run 4x6-8 all block.
 
 ---
 
-## WARMUP (10 min — before every lifting day; rotates WEEKLY, golf-mobility emphasis)
+## WARMUP (before every lifting day; rotates WEEKLY, golf-mobility emphasis)
+
+**THORACIC BLOCK (permanent, added 2026-10-26 — mid/upper back from
+backswing extension work; do FIRST, gentle range, never into sharp pain):**
+- [ ] Foam Roller T-Spine Extension — 8 slow reps · *roller across mid-back, hands behind head, extend over it*
+- [ ] Cat-Cow (slow) — 10 · *segment the spine, extra pause in the arch*
+- [ ] Prayer Stretch on Bench — 30s x 2 · *elbows on bench, chest drops through*
+
+Then the weekly rotation (~10 min):
 
 - [ ] Scap Push-Up (Push-Up Plus) — 10 · *pinch blades, push floor away* (chest, shoulders, serratus)
 - [ ] Walking Toe Touch — 10 · *straight leg up, opposite hand to toes* (hamstrings, hip flexors)
