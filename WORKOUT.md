@@ -26,25 +26,21 @@ BW x5, RDL 115x8. Bodyweight-plus pulls run 4x6-8 all block.
 
 ---
 
-## WARMUP (before every lifting day; rotates WEEKLY, golf-mobility emphasis)
+## WARMUP (~11 min — before every lifting day; thoracic block fixed, 6 rotating moves rotate WEEKLY, golf-mobility emphasis)
 
-**THORACIC BLOCK (permanent, added 2026-10-26 — mid/upper back from
-backswing extension work; do FIRST, gentle range, never into sharp pain):**
+**THORACIC BLOCK (permanent — do first; gentle range, never into sharp pain):**
 - [ ] Foam Roller T-Spine Extension — 8 slow reps · *roller across mid-back, hands behind head, extend over it*
+- [ ] Peanut/Tennis-Ball T-Spine Press (TPI drill) — 30s at 3-4 spots · *gentle crunch-and-extend, move up*
 - [ ] Cat-Cow (slow) — 10 · *segment the spine, extra pause in the arch*
-- [ ] Peanut/Tennis-Ball T-Spine Press (TPI drill) — 30s at 3-4 spots · *taped tennis balls under mid-back, gentle crunch-and-extend, move up*
 - [ ] Prayer Stretch on Bench — 30s x 2 · *elbows on bench, chest drops through*
 
-Then the weekly rotation (~10 min):
-
+**Rotating moves (trimmed to 6 on 2026-10-28):**
 - [ ] Scap Push-Up (Push-Up Plus) — 10 · *pinch blades, push floor away* (chest, shoulders, serratus)
 - [ ] Walking Toe Touch — 10 · *straight leg up, opposite hand to toes* (hamstrings, hip flexors)
 - [ ] Golf Swing Torso Rotation — 8/side · *golf stance, arms crossed, full backswing + follow-through* (t-spine, obliques — golf)
-- [ ] Quadruped Reach-Through — 8/side · *reach under and across, then open to ceiling* (t-spine, obliques — golf)
 - [ ] Supported Hip Airplane — 5/side · *hinge on one leg, rotate hips open/closed* (hip rotation, glutes — golf)
 - [ ] Deep Squat Pry — 30s · *bottom of squat, elbows push knees out* (quads, adductors, ankles)
 - [ ] Single-Leg Glute Bridge — 8/side · *hips level, squeeze at top* (glutes, hamstrings)
-- [ ] A-Skips — 30s · *springy skips, knee drives up* (hip flexors, calves, heart rate)
 
 ---
 
