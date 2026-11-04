@@ -167,6 +167,7 @@ now 2-for-2 weeks each).
 | 2026-10-19 | Chest-Supported Row | 160 lbs x 6 reps | Week 6 — first row-slot baseline |
 | 2026-10-21 | Pause Back Squat | 135 lbs x 6 reps | Week 6 — first pause squat baseline |
 | 2026-10-22 | Flat Dumbbell Bench Press | 60 lbs x 6 reps (per DB) | Week 6 — repeat of 60x6 |
+| 2026-10-30 | Barbell RDL | 115 lbs x 8 reps | Week 7 — matches 9/24; move to 125 |
 
 ---
 
@@ -398,3 +399,34 @@ since week 2, and cardio finishers on all three.
 the slot without ever being baselined. Legs rule: Friday is next week's
 #1. 45° Back Extension skipped for the first time in the block. Wed
 circuit skipped but cardio done.
+
+---
+
+## Week ending 2026-11-01 — WEEK 7 OF 12 · Push phase
+
+**Scoreboard: Week 7 of 12 · Push (5x5) · Lifts 2/4 — MISSED ·
+Core/Cardio 1/1-2 ✓ · streak: none**
+
+*First week on the Push program (barbell bench, back squat, chin-up,
+RDL — all returning variations).*
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Mon · Upper A | Barbell bench 5x5 (no number filled) + all accessories + core | Cardio | 8/9 (89%) |
+| Tue · Lower A | — | Everything | 0/11 |
+| Wed · Core+Cardio | Full circuit | 20-min cardio | 4/5 (80%) |
+| Thu · Upper B | — | Everything | 0/12 |
+| Fri · Lower B | EVERYTHING — RDL 5x5 (115x8 logged), hip thrust, hack squat, calves, both core, cardio | — | 9/9 (100%) 🏆 |
+| Sat · Core+Cardio (opt) | — | — | not done (optional) |
+
+**Overall:** 21/46 (46%). Two lifting sessions + one core/cardio.
+FIRST-EVER 100% FRIDAY — the trimmed Lower B worked on its first try
+(Friday had been missed 4 of the previous 6 weeks).
+
+**Top set:** Barbell RDL **115x8** (10/30) — identical to the 9/24
+entry. Two sessions at the same number: next session is 125 for the
+5s, no debate. Monday's bench was done but the number line left blank.
+
+**Patterns:** Tue (squat day) missed 3 of the last 4 weeks — it has
+quietly become the new chronic gap, taking over from Friday. Thu
+missed 5 of 7 block weeks. Mon streak now 7-for-7 weeks.

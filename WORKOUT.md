@@ -34,13 +34,13 @@ BW x5, RDL 115x8. Bodyweight-plus pulls run 4x6-8 all block.
 - [ ] Cat-Cow (slow) — 10 · *segment the spine, extra pause in the arch*
 - [ ] Prayer Stretch on Bench — 30s x 2 · *elbows on bench, chest drops through*
 
-**Rotating moves (trimmed to 6 on 2026-10-28):**
-- [ ] Scap Push-Up (Push-Up Plus) — 10 · *pinch blades, push floor away* (chest, shoulders, serratus)
-- [ ] Walking Toe Touch — 10 · *straight leg up, opposite hand to toes* (hamstrings, hip flexors)
-- [ ] Golf Swing Torso Rotation — 8/side · *golf stance, arms crossed, full backswing + follow-through* (t-spine, obliques — golf)
-- [ ] Supported Hip Airplane — 5/side · *hinge on one leg, rotate hips open/closed* (hip rotation, glutes — golf)
-- [ ] Deep Squat Pry — 30s · *bottom of squat, elbows push knees out* (quads, adductors, ankles)
-- [ ] Single-Leg Glute Bridge — 8/side · *hips level, squeeze at top* (glutes, hamstrings)
+**Rotating moves (6):**
+- [ ] Band Pull-Apart — 15 · *arms straight, pull to chest, pinch blades* (rear delts, upper back)
+- [ ] Single-Leg RDL Reach — 6/side · *hinge on one leg, reach to floor* (hamstrings, glutes, balance)
+- [ ] Seated Club Rotations — 10/side · *club across chest, rotate fully, hips square* (t-spine rotation — golf)
+- [ ] 90/90 Hip Drops — 8 · *feet wide, knees drop side to side* (hip internal rotation — golf)
+- [ ] Cossack Squat — 6/side · *shift over one leg* (adductors, quads, glutes)
+- [ ] Fire Hydrant — 8/side · *knee out to the side, hips level* (glute med, hip stability)
 
 ---
 
@@ -91,7 +91,7 @@ BW x5, RDL 115x8. Bodyweight-plus pulls run 4x6-8 all block.
 
 ## Friday · Lower B (Barbell RDL 5x5) — ~45 min
 
-- [ ] A: **Barbell Romanian Deadlift** (HEAVY HINGE slot) — 5x5 (2 min) · **Top set:** — lbs x — reps *(last RDL: 115x8 on 9/24 — start ~125-135)*
+- [ ] A: **Barbell Romanian Deadlift** (HEAVY HINGE slot) — 5x5 (2 min) · **Top set:** — lbs x — reps *(last: 115x8 on 10/30 — same as 9/24; move to 125)*
     - *Bar slides down thighs, hinge until hamstrings pull hard*
 - [ ] B1: Barbell Hip Thrust — 3x10-12 · *full lockout, 1s squeeze*
 - [ ] B2: Hack Squat (machine) — 3x10 (60s) · *feet low for quads*
@@ -146,6 +146,7 @@ weight.*
 | 2026-10-19 | Chest-Supported Row | 160 lbs x 6 reps | Week 6 — first row-slot baseline (loaded weight) |
 | 2026-10-21 | Pause Back Squat | 135 lbs x 6 reps | Week 6 — first pause squat baseline |
 | 2026-10-22 | Flat Dumbbell Bench Press | 60 lbs x 6 reps (per DB) | Week 6 — second session at 60x6 (one more = stall flag) |
+| 2026-10-30 | Barbell RDL | 115 lbs x 8 reps | Week 7 — matches 9/24 exactly; 2nd session at 115x8, move to 125 |
 
 ---
 
