@@ -430,3 +430,33 @@ entry. Two sessions at the same number: next session is 125 for the
 **Patterns:** Tue (squat day) missed 3 of the last 4 weeks — it has
 quietly become the new chronic gap, taking over from Friday. Thu
 missed 5 of 7 block weeks. Mon streak now 7-for-7 weeks.
+
+---
+
+## Week ending 2026-11-08 — WEEK 8 OF 12 · Push phase
+
+**Scoreboard: Week 8 of 12 · Push (5x5) · Lifts 1/4 — MISSED ·
+Core/Cardio 0/1-2 · streak: none**
+
+*Pre-refresh snapshot harvested by the Nov 8 biweekly refresh (pages
+then rotated to the weeks 9-10 program and reset; the refresh run was
+interrupted mid-rotation and completed at the Sunday-night recap).*
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Mon · Upper A | — | Everything | 0/9 |
+| Tue · Lower A | — | Everything | 0/11 |
+| Wed · Core+Cardio | — | Everything | 0/5 |
+| Thu · Upper B | Chin-ups (4x6-8 slot!), OHP, neutral pulldown, bent-over row, barbell high pull, incline curl, windshield wipers, cardio | Rear-Delt Fly, Pec Deck, Renegade Row | 9/12 (75%) |
+| Fri · Lower B | — | Everything | 0/10 |
+| Sat · Core+Cardio (opt) | — | — | not done (optional) |
+
+**Overall:** 9/47 (19%). One session — but it was THURSDAY, the
+block's most-missed day (now done 2 of the last 3 weeks after missing
+5 of the first 6). No top sets filled this week (chin-up reps not
+written down).
+
+**Patterns:** Both lower days zero — second broken legs-rule in three
+weeks; zero lower-body work since 10/30. Lift trend: 2 → 3 → 2 → 2 →
+1 → 3 → 2 → 1. Mon streak ended at 7 weeks. Four weeks remain:
+weeks 9-10 Push, then the 2-week Peak.
