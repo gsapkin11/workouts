@@ -37,18 +37,18 @@ optional EMOM cardio finisher.
 - [ ] Prayer Stretch on Bench — 30s x 2 · *elbows on bench, chest drops through*
 
 **Rotating moves (6):**
-- [ ] Wall Slide — 10 · *back flat on wall, slide arms up/down* (shoulders, upper back)
-- [ ] Inchworm Walkout — 6 · *walk hands to plank and back* (hamstrings, shoulders, core)
-- [ ] Wall T-Spine Rotation — 8/side · *hips pinned square to wall, rotate chest away* (t-spine — golf)
-- [ ] World's Greatest Stretch — 5/side · *lunge, elbow down, rotate up* (hip flexors, t-spine — golf)
-- [ ] Lateral Lunge — 6/side · *big side step, sit into hip* (adductors, glutes, quads)
-- [ ] Glute Bridge March — 8/side · *hips high, march knees up* (glutes, deep core)
+- [ ] Prone Y-T-W — 8 each · *face down, thumbs up, squeeze between blades* (shoulders, mid-back)
+- [ ] Walking Toe Touch — 10 · *straight leg up, opposite hand to toes* (hamstrings, hip flexors)
+- [ ] Golf Swing Torso Rotation — 8/side · *golf stance, arms crossed, backswing + follow-through* (t-spine — golf)
+- [ ] Half-Kneeling Hip Flexor Stretch w/ Reach — 30s/side · *knee down, glute tight, reach up* (hip flexors — golf)
+- [ ] Deep Squat Pry — 30s · *bottom of squat, elbows push knees out* (quads, adductors, ankles)
+- [ ] Single-Leg Glute Bridge — 8/side · *hips level, squeeze at top* (glutes, hamstrings)
 
 ---
 
 ## Monday · Upper A (Incline Bench 5x5) — ~46 min
 
-- [ ] A: **Incline Barbell Bench Press** (HEAVY PRESS slot) — 5x5 (2 min) · **Top set:** — lbs x — reps *(last incline: 115x7 on 9/28 — 5s at ~120-125)*
+- [ ] A: **Incline Barbell Bench Press** (HEAVY PRESS slot) — 5x5 (2 min) · **Top set:** — lbs x — reps *(last: 135x4 on 11/10 — up 20 lbs from 9/28)*
     - *Bench at 30°, bar to upper chest, touch and drive*
 - [ ] B1: Flat Dumbbell Bench Press — 3x10 · *(last as heavy lift: 60s x 6 — use 55s)*
 - [ ] B2: Single-Arm Dumbbell Row — 3x10/side (60s) · *pull to hip, no twist*
@@ -146,6 +146,7 @@ weight.*
 | 2026-10-21 | Pause Back Squat | 135 lbs x 6 reps | Week 6 — first pause squat baseline |
 | 2026-10-22 | Flat Dumbbell Bench Press | 60 lbs x 6 reps (per DB) | Week 6 — second session at 60x6 (one more = stall flag) |
 | 2026-10-30 | Barbell RDL | 115 lbs x 8 reps | Week 7 — matches 9/24 exactly; 2nd session at 115x8, move to 125 |
+| 2026-11-10 | Incline Barbell Bench Press | 135 lbs x 4 reps | Week 9 — +20 lbs over 9/28 baseline (entered as "4 x 135", fields transposed) |
 
 ---
 

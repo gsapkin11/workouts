@@ -168,6 +168,7 @@ now 2-for-2 weeks each).
 | 2026-10-21 | Pause Back Squat | 135 lbs x 6 reps | Week 6 — first pause squat baseline |
 | 2026-10-22 | Flat Dumbbell Bench Press | 60 lbs x 6 reps (per DB) | Week 6 — repeat of 60x6 |
 | 2026-10-30 | Barbell RDL | 115 lbs x 8 reps | Week 7 — matches 9/24; move to 125 |
+| 2026-11-10 | Incline Barbell Bench Press | 135 lbs x 4 reps | Week 9 — +20 lbs over 9/28 |
 
 ---
 
@@ -460,3 +461,35 @@ written down).
 weeks; zero lower-body work since 10/30. Lift trend: 2 → 3 → 2 → 2 →
 1 → 3 → 2 → 1. Mon streak ended at 7 weeks. Four weeks remain:
 weeks 9-10 Push, then the 2-week Peak.
+
+---
+
+## Week ending 2026-11-15 — WEEK 9 OF 12 · Push phase
+
+**Scoreboard: Week 9 of 12 · Push (5x5) · Lifts 2/4 — MISSED ·
+Core/Cardio 0/1-2 · streak: none**
+
+*First week on the weeks 9-10 program (incline bench, box squat,
+heavy pulldown, trap bar DL) and the creative-accessory debut.*
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Mon · Upper A | Incline bench 5x5 (135x4 logged — entered transposed as "4 x 135"), all accessories, both core | Cardio | 8/9 (89%) |
+| Tue · Lower A | — | Everything | 0/11 |
+| Wed · Core+Cardio | — | Everything | 0/5 |
+| Thu · Upper B | Reverse Pec Deck, Machine Chest Press only | Everything else (incl. heavy pulldown, chins) | 2/12 (17%) — partial, not counted as a session |
+| Fri · Lower B | EVERYTHING — trap bar 5x5 (no number), KB swings, landmine rotations (debut ✓), pull-throughs, calves, carries, cardio | — | 9/9 (100%) 🏆 |
+| Sat · Core+Cardio (opt) | — | — | not done (optional) |
+
+**Overall:** 19/46 (41%). Two full sessions + a Thursday false start.
+SECOND consecutive perfect Friday — the trimmed Lower B is 2-for-2,
+and the landmine rotation got done on its first appearance.
+
+**Top set:** Incline Barbell Bench **135x4** (11/10) — +20 lbs over
+the 9/28 baseline (115x7). First meaningful press progression of the
+block. Trap bar DL done but still unlogged.
+
+**Patterns:** Tuesday missed 5 of the last 6 weeks — squat day is the
+block's problem child now. Wed core/cardio: 1 session in 6 weeks.
+Friday streak: 2 perfect weeks. Three weeks left; Peak starts next
+Sunday (Nov 22).
