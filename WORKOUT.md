@@ -28,13 +28,13 @@ optional EMOM cardio finisher.
 
 ---
 
-## WARMUP (~11 min — thoracic block fixed, 6 rotating moves rotate WEEKLY, golf-mobility emphasis)
+## WARMUP (~11 min — thoracic block first, its drills + the 6 rotating moves ALL rotate WEEKLY, golf-mobility emphasis)
 
-**THORACIC BLOCK (permanent — do first; gentle range, never into sharp pain):**
-- [ ] Foam Roller T-Spine Extension — 8 slow reps · *roller across mid-back, extend over it*
-- [ ] Peanut/Tennis-Ball T-Spine Press (TPI drill) — 30s at 3-4 spots · *gentle crunch-and-extend, move up*
-- [ ] Cat-Cow (slow) — 10 · *segment the spine, extra pause in the arch*
-- [ ] Prayer Stretch on Bench — 30s x 2 · *elbows on bench, chest drops through*
+**THORACIC BLOCK (every week, do first — drills rotate weekly; gentle range, never into sharp pain):**
+- [ ] Wall-Supported T-Spine Extension — 8 slow reps · *hands on wall, drop chest through between the arms*
+- [ ] Quadruped Extension-Rotation — 6/side · *hand behind head, elbow to opposite wrist, rotate open to ceiling*
+- [ ] Foam Roller Angels — 10 slow sweeps · *lie lengthwise on roller, arms sweep hips to overhead*
+- [ ] Thread the Needle with Hold — 20s/side · *arm slides under and through, rest on shoulder, breathe*
 
 **Rotating moves (6):**
 - [ ] Prone Y-T-W — 8 each · *face down, thumbs up, squeeze between blades* (shoulders, mid-back)
@@ -152,8 +152,10 @@ weight.*
 
 ## Update Cadence
 
-The WARMUP's 6 rotating moves rotate WEEKLY (Sunday nights; thoracic
-block is permanent; golf-mobility emphasis). Biweekly Sunday refreshes
+The WARMUP rotates WEEKLY (Sunday nights): the thoracic block stays the
+permanent first section but its 4 drills now rotate from a thoracic pool,
+and the 6 rotating moves rotate too (golf-mobility emphasis).
+Biweekly Sunday refreshes
 rotate the accessories, core, and heavy-slot variations (within their
 pattern pools); the phase scheme is set by the plan.
 The refresh updates the Notion day sub-pages first, then this file.
