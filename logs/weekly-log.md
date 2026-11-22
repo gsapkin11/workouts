@@ -493,3 +493,34 @@ block. Trap bar DL done but still unlogged.
 block's problem child now. Wed core/cardio: 1 session in 6 weeks.
 Friday streak: 2 perfect weeks. Three weeks left; Peak starts next
 Sunday (Nov 22).
+
+---
+
+## Week ending 2026-11-22 — WEEK 10 OF 12 · Push phase
+
+**Scoreboard: Week 10 of 12 · Push (5x5) · Lifts 2/4 — MISSED ·
+Core/Cardio 1/1-2 ✓ · streak: none**
+
+*Snapshot taken by the Nov 22 biweekly refresh (pages reset for the
+Peak-phase program afterward — empty checkboxes after 8am are by design).*
+
+| Day | Completed | Skipped | Completion |
+|-----|-----------|---------|------------|
+| Mon · Upper A | Incline bench 5x5 (115x5 logged), all accessories, decline sit-ups | Pallof, cardio | 7/9 (78%) |
+| Tue · Lower A | — | Everything | 0/11 |
+| Wed · Core+Cardio | Bicycle crunch, sprinter sit-up, superman, 20-min cardio | Bear crawl | 4/5 (80%) ✓ |
+| Thu · Upper B | — | Everything | 0/12 |
+| Fri · Lower B | EVERYTHING — trap bar 5x5 (no number), KB swings, landmine rotations, pull-throughs, calves, carries, cardio | — | 9/9 (100%) 🏆 |
+| Sat · Core+Cardio (opt) | — | — | not done (optional) |
+
+**Overall:** 20/46 (43%). THIRD consecutive perfect Friday — the
+trimmed Lower B is 3-for-3. First Wednesday core/cardio in 7 weeks.
+
+**Top set:** Incline Barbell Bench **115x5** (11/16) — dropped from
+135x4 to own all 5x5 sets clean, as the program instructed. Incline
+leaves the slot at 135x4 max / 115x5 across. Trap bar DL done twice,
+never logged — leaves the slot with no baseline.
+
+**Patterns:** Tuesday missed 6 of the last 7 weeks. Thursday back to
+zero after the wk-8 recovery. Push phase closes: Mon + Fri are rocks,
+Tue + Thu decide every week. Peak (wks 11-12) starts Nov 23.

@@ -1,11 +1,11 @@
 # 4-DAY LIFTING SPLIT + CORE/CARDIO — 12-WEEK PROGRAM
 
-*Last updated: 2026-11-08 · Canonical copy lives in Notion ("💪🏽 Workouts" dashboard + one sub-page per day); this file is the version history.*
+*Last updated: 2026-11-22 · Canonical copy lives in Notion ("💪🏽 Workouts" dashboard + one sub-page per day); this file is the version history.*
 
 **Goal:** Stronger + visibly leaner — 12-week block Sep 14 → Dec 6
 **The week:** Mon Upper A · Tue Lower A · Wed Core/Cardio · Thu Upper B · Fri Lower B · Sat Core/Cardio (optional 2nd) · Sun rest | ~45 min per session
 **Scoring:** 4 lifts = perfect week · 3 = saved week · legs never slip twice in a row · Core/Cardio target 1-2x
-**Phase:** Week 9-10 · PUSH — 5x5 on the heavy slots (pulldown 4x6-8); add weight when every rep is clean
+**Phase:** Week 11-12 · PEAK — heavy 3-5 on the heavy slots (row 4x5, hip thrust 4x8-10); final PRs vs September baselines
 
 **Notion structure:** main page = minimal tab list (one italic phase line + page tabs) with child pages per weekday plus Warmup and The 12-Week Plan.
 
@@ -15,101 +15,101 @@
 
 | Day | Slot | Current variation | Rotation pool |
 |-----|------|-------------------|---------------|
-| Mon | PRESS | Incline Barbell Bench Press | flat/incline barbell, DB bench |
-| Tue | SQUAT (back-rack only) | Box Squat | back, box, pause, tempo squat |
-| Thu | PULL | Heavy Lat Pulldown (4x6-8) | chin-up, heavy lat pulldown, chest-supported row |
-| Fri | HINGE | Trap Bar Deadlift | RDL, trap bar deadlift, heavy hip thrust |
+| Mon | PRESS | Flat Dumbbell Bench Press | flat/incline barbell, DB bench |
+| Tue | SQUAT (back-rack only) | Pause Back Squat | back, box, pause, tempo squat |
+| Thu | PULL | Chest-Supported Row (4x5) | chin-up, heavy lat pulldown, chest-supported row |
+| Fri | HINGE | Barbell Hip Thrust heavy (4x8-10) | RDL, trap bar deadlift, heavy hip thrust |
 
-Incline bench returns at 5x5 (last: 115x7, 9/28 → 5s at ~120-125) and
-box squat at 5x5 (last: 155x6, 9/30 → 5s at 155-165). Pulldown and trap
-bar still need first logged numbers. Chin-ups stay as Thursday accessory.
-CREATIVE pick this cycle: Landmine Rotation on Friday (golf power) +
-optional EMOM cardio finisher.
+PEAK rotation logic: each slot avoids its previous two cycles — DB bench
+(last: 60x6 twice → 65s for 3-5), pause squat (last: 135x6 → 145-155),
+chest-supported row (last: 160x6 → heavy 5s at 170+), heavy hip thrust
+(never logged — set the baseline). Accessories lean NEW this cycle per
+Grant's 11/21 request: landmine press, inverted row, sled push, walking
+lunge, leg press, Arnold press, weighted push-up, spider curl, med-ball
+scoop toss, single-leg RDL, ab wheel, suitcase/waiter carries.
 
 ---
 
-## WARMUP (~11 min — thoracic block first, its drills + the 6 rotating moves ALL rotate WEEKLY, golf-mobility emphasis)
+## WARMUP (~11 min — thoracic block first; its drills + the 6 rotating moves ALL rotate WEEKLY, golf-mobility emphasis)
 
 **THORACIC BLOCK (every week, do first — drills rotate weekly; gentle range, never into sharp pain):**
-- [ ] Wall-Supported T-Spine Extension — 8 slow reps · *hands on wall, drop chest through between the arms*
-- [ ] Quadruped Extension-Rotation — 6/side · *hand behind head, elbow to opposite wrist, rotate open to ceiling*
-- [ ] Foam Roller Angels — 10 slow sweeps · *lie lengthwise on roller, arms sweep hips to overhead*
-- [ ] Thread the Needle with Hold — 20s/side · *arm slides under and through, rest on shoulder, breathe*
+- [ ] Seated Chair T-Spine Extension — 8 slow reps · *hands behind head, arch over the backrest*
+- [ ] Foam Roller T-Spine Extension — 8 slow reps · *roller across mid-back, extend at 2-3 spots*
+- [ ] Side-Lying Windmill — 6/side · *knees stacked at 90°, top arm sweeps a slow full circle*
+- [ ] Prayer Stretch on Bench — 30s x 2 · *elbows on bench, chest drops through*
 
 **Rotating moves (6):**
-- [ ] Prone Y-T-W — 8 each · *face down, thumbs up, squeeze between blades* (shoulders, mid-back)
-- [ ] Walking Toe Touch — 10 · *straight leg up, opposite hand to toes* (hamstrings, hip flexors)
-- [ ] Golf Swing Torso Rotation — 8/side · *golf stance, arms crossed, backswing + follow-through* (t-spine — golf)
-- [ ] Half-Kneeling Hip Flexor Stretch w/ Reach — 30s/side · *knee down, glute tight, reach up* (hip flexors — golf)
-- [ ] Deep Squat Pry — 30s · *bottom of squat, elbows push knees out* (quads, adductors, ankles)
-- [ ] Single-Leg Glute Bridge — 8/side · *hips level, squeeze at top* (glutes, hamstrings)
+- [ ] Wall Slide — 10 · *back flat on wall, slide arms overhead* (shoulders, posture)
+- [ ] Squat-to-Stand with Reach — 8 · *grab toes, deep squat, stand and reach* (hamstrings, hips)
+- [ ] Seated Club Rotations — 8/side · *on a bench, club across chest, hips locked* (t-spine — golf)
+- [ ] 90/90 Hip Switch — 8 · *knees at 90°, swivel side to side* (hip rotation — golf)
+- [ ] Cossack Squat — 6/side · *sink over one leg, other straight* (quads, adductors)
+- [ ] Glute Bridge March — 8/side · *hips up level, march* (glutes, core)
 
 ---
 
-## Monday · Upper A (Incline Bench 5x5) — ~46 min
+## Monday · Upper A (DB Bench heavy 3-5) — ~45 min
 
-- [ ] A: **Incline Barbell Bench Press** (HEAVY PRESS slot) — 5x5 (2 min) · **Top set:** — lbs x — reps *(last: 135x4 on 11/10 — up 20 lbs from 9/28)*
-    - *Bench at 30°, bar to upper chest, touch and drive*
-- [ ] B1: Flat Dumbbell Bench Press — 3x10 · *(last as heavy lift: 60s x 6 — use 55s)*
-- [ ] B2: Single-Arm Dumbbell Row — 3x10/side (60s) · *pull to hip, no twist*
-- [ ] C1: Cable Lateral Raise — 3x12-15/side · *lead with elbow, constant tension*
-- [ ] C2: Cable Curl (straight bar) — 3x12 (45s) · *elbows pinned, slow negative*
-- [ ] D: Skull Crushers (EZ bar) — 3x12 (45s) · *lower to forehead, elbows still*
-- [ ] Core: Decline Sit-Up (plate) 3x10 · Pallof Press 3x10/side
+- [ ] A: **Flat Dumbbell Bench Press** (HEAVY PRESS slot) — 4x3-5 (2.5 min) · **Top set:** — lbs x — reps *(last: 60s x 6 on 10/22 — per DB; 65s for 3-5)*
+    - *Deep stretch, press up and slightly in — you've done 60x6 twice, time for the 65s*
+- [ ] B1: Half-Kneeling Landmine Press — 3x8/side · *press up and slightly across* [creative pick]
+- [ ] B2: Inverted Row (bar in rack) — 3x8-10 (60s) · *body straight, chest to bar*
+- [ ] C1: Cable Y-Raise — 3x12-15 · *light, out and up into a Y*
+- [ ] C2: Incline Dumbbell Curl — 3x10 (45s) · *arms hang behind, no swinging*
+- [ ] D: Overhead Cable Triceps Extension — 3x12 (45s) · *elbows tight, deep stretch*
+- [ ] Core: Ab Wheel Rollout 3x8 · Suitcase Carry 2x30s/side [creative pick]
 - [ ] Cardio — 8 min
 
-## Tuesday · Lower A (Box Squat 5x5) — ~46 min
+## Tuesday · Lower A (Pause Squat heavy 3-5) — ~45 min (trimmed: get in, squat heavy, get out)
 
-- [ ] A: **Box Squat** (HEAVY SQUAT slot) — 5x5 (2 min) · **Top set:** — lbs x — reps *(last box squat: 155x6 on 9/30 — 5s at 155-165)*
-    - *Box at parallel, sit back, light touch, drive up hard*
-- [ ] B1: Bulgarian Split Squat (DB) — 3x8/leg · *rear foot on bench, straight down*
-- [ ] B2: Leg Extension — 3x12 (60s) · *pause at top, control down*
+- [ ] A: **Pause Back Squat** (HEAVY SQUAT slot) — 4x3-5 (2.5 min) · **Top set:** — lbs x — reps *(last pause squat: 135x6 on 10/21 — 3-5s at 145-155)*
+    - *1-second dead stop at the bottom, drive up hard — final PRs of the block*
+- [ ] B1: Walking Dumbbell Lunge — 3x8/leg · *long steps, back knee kisses floor*
+- [ ] B2: Leg Press — 3x10 (60s) · *deep, heels down, no knee lock*
 - [ ] C: 45° Back Extension (hamstring focus) — 3x12 (60s) · *toes in, flat back, add a plate*
-- [ ] D1: Seated Hip Adduction (machine) — 3x12
-- [ ] D2: Seated Hip Abduction (machine) — 3x12 (45s) · *slow squeeze both ways*
+- [ ] D: Sled Push — 4x20 yd (60s) · *low grip, drive the legs* [creative pick]
 - [ ] E: Standing Calf Raise (machine) — 3x12 (45s) · *full stretch, big pause*
-- [ ] Core: Hanging Knee Raise 3x12 · Side Plank with Reach-Through 3x8/side
+- [ ] Core: Cable Crunch 3x12 · Dead Bug 3x10/side
 - [ ] Cardio — 8 min
 
 ## Wednesday · Core + Cardio — ~40 min
 
 - Warmup (5 min): Band Pull-Apart, Glute Bridge March, Open Book, Bird Dog — one set each
-- Core circuit, 3 rounds (15s/60s rests): Bicycle Crunch 15/side · Bear Crawl 30s · Sprinter Sit-Up 10/side · Superman Hold 30s
-- Cardio — 20 min steady or 10x (1 min hard / 1 min easy)
+- Core circuit, 3 rounds (15s/60s rests): Plank Up-Down 10 · Russian Twist 12/side · Reverse Crunch 12 · V-Sit Flutter Kicks 20s
+- Cardio — 20 min steady or 4x (3 min hard / 2 min easy) on the rower
 
-## Thursday · Upper B (Heavy Pulldown) — ~48 min
+## Thursday · Upper B (Heavy Row 4x5) — ~47 min
 
-- [ ] A: **Lat Pulldown (heavy, wide grip)** (HEAVY PULL slot) — 4x6-8 (75s) · **Top set:** — lbs x — reps *(never logged — set the baseline, stack weight)*
-    - *Heavy stack, chest up, elbows down and back*
-- [ ] B1: Seated Dumbbell Shoulder Press — 3x8-10 · *back on pad, press up and in*
-- [ ] B2: Seated Cable Row — 3x10-12 (60s) · *chest tall, pull to belly button*
-- [ ] C: Chin-Up — 3 x max reps (60s) · *1 in the tank* *(done 11/5, reps unrecorded — jot them)*
-- [ ] D1: Reverse Pec Deck — 3x15 · *swing wide and back, pause*
-- [ ] D2: Kelso Shrug — 3x12 (45s) · *chest on incline bench, shrug blades together* [trap slot]
-- [ ] E1: Machine Chest Press — 3x10 · *full stretch at the back*
-- [ ] E2: Concentration Curl — 3x10/arm (45s) · *elbow on thigh, slow*
-- [ ] Core: Cable Woodchop (high-to-low) 3x10/side · Hollow Body Hold 3x20s
+- [ ] A: **Chest-Supported Row (T-bar or machine)** (HEAVY PULL slot) — 4x5 (90s) · **Top set:** — lbs x — reps *(last: 160x6 on 10/19 — heavy 5s at 170+)*
+    - *Chest glued to the pad, pull to lower ribs, no body English*
+- [ ] B: Chin-Up — 3 x max reps (60s) · *1 in the tank* *(write the reps down this time!)*
+- [ ] C: Arnold Press (seated) — 3x8-10 (60s) · *rotate out as you press*
+- [ ] D1: Face Pull (rope, high cable) — 3x15 · *to the nose, elbows high*
+- [ ] D2: Dumbbell Shrug with 3s Top Hold — 3x12 (45s) · *full 3-count squeeze* [trap slot]
+- [ ] E1: Weighted Push-Up (plate on back) — 3x12 · *chest to an inch off the floor*
+- [ ] E2: Spider Curl (EZ bar on incline bench) — 3x10 (45s) · *chest on pad, strict*
+- [ ] Core: Cable Woodchop (low-to-high) 3x10/side · Stir-the-Pot Plank 3x8 circles/side
 - [ ] Cardio — 8 min
 
-## Friday · Lower B (Trap Bar 5x5) — ~45 min
+## Friday · Lower B (Heavy Hip Thrust 4x8-10) — ~45 min
 
-- [ ] A: **Trap Bar Deadlift** (HEAVY HINGE slot) — 5x5 (2 min) · **Top set:** — lbs x — reps *(done 10/8 unlogged — set the baseline, ~155-185)*
-    - *Hips back, chest up, push the floor away, reset every rep*
+- [ ] A: **Barbell Hip Thrust (heavy)** (HEAVY HINGE slot) — 4x8-10 (90s) · **Top set:** — lbs x — reps *(new baseline — total bar weight; start ~135-185, hip thrusts go heavy fast)*
+    - *Upper back on bench, chin tucked, full lockout and squeeze*
 - [ ] B1: Kettlebell Swing — 3x12 · *hinge not squat, snap the hips*
-- [ ] B2: Landmine Rotation — 3x8/side (60s) · *arms long, sweep the bar in an arc — a loaded golf swing* [creative pick]
-- [ ] C: Cable Pull-Through — 3x12 (45s) · *hinge and snap hips forward*
+- [ ] B2: Med-Ball Rotational Scoop Toss — 3x6/side (60s) · *golf stance, rotate and throw hard — swing speed work* [creative pick]
+- [ ] C: Single-Leg Romanian Deadlift (DB) — 3x8/side (45s) · *soft knee, square hips*
 - [ ] D: Seated Calf Raise — 3x15 (45s) · *full stretch, hard pause*
-- [ ] Core: Farmer Carry 2x40s · Side Plank Hip Lift 3x10/side
+- [ ] Core: Waiter Carry 2x30s/side [creative pick] · Bird Dog Row (light DB) 3x8/side
 - [ ] Cardio — 8 min: bike/treadmill OR EMOM (odd: 12 cal bike · even: 10 bodyweight squats)
 
 ## Saturday · Core + Cardio (optional 2nd session) — ~40 min
 
-Same as Wednesday: mini warmup, then 3 rounds of Bicycle Crunch 15/side ·
-Bear Crawl 30s · Sprinter Sit-Up 10/side · Superman Hold 30s, then 20 min cardio.
+Same as Wednesday: mini warmup, then 3 rounds of Plank Up-Down 10 ·
+Russian Twist 12/side · Reverse Crunch 12 · V-Sit Flutter Kicks 20s, then 20 min cardio.
 
 ---
 
-## Deload Protocol (if needed mid-Push: joints/WHOOP say so)
+## Deload Protocol (if needed mid-Peak: joints/WHOOP say so)
 
 | Adjustment | How |
 |------------|-----|
@@ -147,16 +147,18 @@ weight.*
 | 2026-10-22 | Flat Dumbbell Bench Press | 60 lbs x 6 reps (per DB) | Week 6 — second session at 60x6 (one more = stall flag) |
 | 2026-10-30 | Barbell RDL | 115 lbs x 8 reps | Week 7 — matches 9/24 exactly; 2nd session at 115x8, move to 125 |
 | 2026-11-10 | Incline Barbell Bench Press | 135 lbs x 4 reps | Week 9 — +20 lbs over 9/28 baseline (entered as "4 x 135", fields transposed) |
+| 2026-11-16 | Incline Barbell Bench Press | 115 lbs x 5 reps | Week 10 — dropped from 135x4 to own all 5x5 sets clean |
 
 ---
 
 ## Update Cadence
 
 The WARMUP rotates WEEKLY (Sunday nights): the thoracic block stays the
-permanent first section but its 4 drills now rotate from a thoracic pool,
+permanent first section but its 4 drills rotate from a thoracic pool,
 and the 6 rotating moves rotate too (golf-mobility emphasis).
 Biweekly Sunday refreshes
 rotate the accessories, core, and heavy-slot variations (within their
-pattern pools); the phase scheme is set by the plan.
+pattern pools); the phase scheme is set by the plan. Accessory picks
+bias toward not-yet-programmed movements (Grant, 11/21).
 The refresh updates the Notion day sub-pages first, then this file.
 Weekly history: `logs/weekly-log.md`. The plan: `PLAN.md`.
