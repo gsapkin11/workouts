@@ -74,7 +74,7 @@ scoop toss, single-leg RDL, ab wheel, suitcase/waiter carries.
 
 ## Wednesday · Core + Cardio — ~40 min
 
-- Warmup (5 min): Band Pull-Apart, Glute Bridge March, Open Book, Bird Dog — one set each
+- Warmup (5 min, rotates each refresh): Scap Push-Up, 90/90 Hip Switch, Thread the Needle, Dead Bug — one set each
 - Core circuit, 3 rounds (15s/60s rests): Plank Up-Down 10 · Russian Twist 12/side · Reverse Crunch 12 · V-Sit Flutter Kicks 20s
 - Cardio — 20 min steady or 4x (3 min hard / 2 min easy) on the rower
 
