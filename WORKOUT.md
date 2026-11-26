@@ -30,20 +30,17 @@ scoop toss, single-leg RDL, ab wheel, suitcase/waiter carries.
 
 ---
 
-## WARMUP (~11 min — thoracic block first; its drills + the 6 rotating moves ALL rotate WEEKLY, golf-mobility emphasis)
+## WARMUP (~7 min — thoracic block of 3 first, then 4 double-duty rotating moves; everything rotates WEEKLY, golf-mobility emphasis)
 
 **THORACIC BLOCK (every week, do first — drills rotate weekly; gentle range, never into sharp pain):**
 - [ ] Seated Chair T-Spine Extension — 8 slow reps · *hands behind head, arch over the backrest*
-- [ ] Foam Roller T-Spine Extension — 8 slow reps · *roller across mid-back, extend at 2-3 spots*
 - [ ] Side-Lying Windmill — 6/side · *knees stacked at 90°, top arm sweeps a slow full circle*
-- [ ] Prayer Stretch on Bench — 30s x 2 · *elbows on bench, chest drops through*
+- [ ] Prayer Stretch on Bench — 30s · *elbows on bench, chest drops through*
 
-**Rotating moves (6):**
-- [ ] Wall Slide — 10 · *back flat on wall, slide arms overhead* (shoulders, posture)
-- [ ] Squat-to-Stand with Reach — 8 · *grab toes, deep squat, stand and reach* (hamstrings, hips)
-- [ ] Seated Club Rotations — 8/side · *on a bench, club across chest, hips locked* (t-spine — golf)
-- [ ] 90/90 Hip Switch — 8 · *knees at 90°, swivel side to side* (hip rotation — golf)
-- [ ] Cossack Squat — 6/side · *sink over one leg, other straight* (quads, adductors)
+**Rotating moves (4, each covers double duty):**
+- [ ] Wall Slide — 10 · *back flat on wall, slide arms overhead* (shoulders, chest, posture)
+- [ ] World's Greatest Stretch — 4/side · *lunge, elbow inside foot, rotate up, rock back* (hips + hamstrings + t-rotation — golf)
+- [ ] Cossack Squat — 6/side · *sink over one leg, other straight* (quads, adductors, hips)
 - [ ] Glute Bridge March — 8/side · *hips up level, march* (glutes, core)
 
 ---
@@ -153,9 +150,10 @@ weight.*
 
 ## Update Cadence
 
-The WARMUP rotates WEEKLY (Sunday nights): the thoracic block stays the
-permanent first section but its 4 drills rotate from a thoracic pool,
-and the 6 rotating moves rotate too (golf-mobility emphasis).
+The WARMUP (trimmed to ~7 min on 2026-11-26: 3 thoracic drills + 4
+double-duty rotating moves) rotates WEEKLY (Sunday nights): the thoracic
+block stays the permanent first section, its drills rotate from a
+thoracic pool, and the rotating moves rotate too (golf-mobility emphasis).
 Biweekly Sunday refreshes
 rotate the accessories, core, and heavy-slot variations (within their
 pattern pools); the phase scheme is set by the plan. Accessory picks
