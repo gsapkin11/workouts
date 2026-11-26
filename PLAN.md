@@ -79,3 +79,19 @@ grade lifting and core/cardio, not food.
 
 The biweekly refresh keeps rotating variety exactly as before — this plan
 changes what gets measured, not what gets enjoyed.
+
+## Next-Block Direction (Grant, 2026-11-26)
+
+**"I want workout focus to be strength and leanness."** The post-Dec-6
+proposal should be built around exactly these two outcomes:
+
+- **Strength:** keep the four heavy slots as the anchor, progress top
+  sets per variation; the new block's baselines start from this block's
+  final PRs. Accessories exist to feed the main lifts, not for pump
+  volume — keep them lean.
+- **Leanness:** protect the core/cardio sessions (the 1-2x target
+  underperformed this block — propose something more likely to happen,
+  e.g. shorter/attached to lifting days), keep lifting-day cardio
+  finishers, nutrition stays guidelines-only (locked 9/27, never re-ask).
+- Keep what adherence proved: short sessions (~45 min), trimmed Friday
+  formula, variety via rotation with the novelty bias (11/21).
